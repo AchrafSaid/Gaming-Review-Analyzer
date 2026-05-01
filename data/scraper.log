@@ -1,0 +1,539 @@
+2026-05-01 23:40:04,771 [INFO] 🎮 Starting Gaming Review Analyzer scraper
+2026-05-01 23:40:04,771 [INFO]    Target pages : 5
+2026-05-01 23:40:04,772 [INFO]    Crawl delay  : 2s
+
+2026-05-01 23:40:04,772 [INFO] ── Browse page 1/5 ──
+2026-05-01 23:40:05,798 [INFO] Page 1: found 41 game links
+2026-05-01 23:40:06,139 [INFO]   ✅  [1] Games | Critic: 65 | User: None
+2026-05-01 23:40:08,772 [INFO]   ✅  [2] Best Games This Year | Critic: 89 | User: None
+2026-05-01 23:40:11,030 [INFO]   ✅  [3] Best Games of All Time | Critic: 99 | User: None
+2026-05-01 23:40:13,249 [INFO]   ✅  [4] All Upcoming Game Releases | Critic: None | User: None
+2026-05-01 23:40:15,780 [INFO]   ✅  [5] New Games on PS5 | Critic: 78 | User: None
+2026-05-01 23:40:19,304 [INFO]   ✅  [6] New Games on Xbox Series X/S | Critic: None | User: None
+2026-05-01 23:40:22,748 [INFO]   ✅  [7] New Games on PC | Critic: None | User: None
+2026-05-01 23:40:25,585 [INFO]   ✅  [8] New Games on Nintendo Switch and Nintendo Switch 2 | Critic: None | User: None
+2026-05-01 23:40:28,085 [INFO]   ✅  [9] Xbox Series X Critic Reviews | Critic: None | User: None
+2026-05-01 23:40:30,376 [INFO]   ✅  [10] SAROS | Critic: 80 | User: None
+2026-05-01 23:40:32,677 [INFO]   ✅  [11] Invincible VS | Critic: 70 | User: None
+2026-05-01 23:40:35,043 [INFO]   ✅  [12] Aphelion | Critic: 65 | User: None
+2026-05-01 23:40:37,414 [INFO]   ✅  [13] Diablo IV: Lord of Hatred | Critic: None | User: None
+2026-05-01 23:40:39,725 [INFO]   ✅  [14] Vampire Crawlers: The Turbo Wildcard from Vampire Survivors | Critic: 80 | User: None
+2026-05-01 23:40:42,028 [INFO]   ✅  [15] PRAGMATA | Critic: 80 | User: None
+2026-05-01 23:40:44,340 [INFO]   ✅  [16] MOUSE: P.I. For Hire | Critic: 95 | User: None
+2026-05-01 23:40:47,472 [INFO]   ✅  [17] Tomodachi Life: Living the Dream | Critic: 80 | User: None
+2026-05-01 23:40:50,634 [INFO]   ✅  [18] The Legend of Zelda: Breath of the Wild | Critic: 100 | User: None
+2026-05-01 23:40:53,605 [INFO]   ✅  [19] Red Dead Redemption 2 | Critic: 95 | User: None
+2026-05-01 23:40:56,930 [INFO]   ✅  [20] Super Mario Odyssey | Critic: 90 | User: None
+2026-05-01 23:40:59,416 [INFO]   ✅  [21] Baldur's Gate 3 | Critic: 90 | User: None
+2026-05-01 23:41:02,126 [INFO]   ✅  [22] The House in Fata Morgana - Dreams of the Revenants Edition - | Critic: 90 | User: None
+2026-05-01 23:41:05,099 [INFO]   ✅  [23] Elden Ring | Critic: 100 | User: None
+2026-05-01 23:41:08,008 [INFO]   ✅  [24] The Legend of Zelda: Tears of the Kingdom | Critic: 100 | User: None
+2026-05-01 23:41:10,800 [INFO]   ✅  [25] Portal: Companion Collection | Critic: 90 | User: None
+2026-05-01 23:41:13,121 [INFO]   ✅  [26] Persona 5 Royal | Critic: 100 | User: None
+2026-05-01 23:41:15,527 [INFO]   ✅  [27] Astro Bot | Critic: 100 | User: None
+2026-05-01 23:41:18,000 [INFO]   ✅  [28] God of War | Critic: 100 | User: None
+2026-05-01 23:41:20,326 [INFO]   ✅  [29] Elden Ring: Shadow of the Erdtree | Critic: 80 | User: None
+2026-05-01 23:41:23,611 [INFO]   ✅  [30] Metroid Prime Remastered | Critic: 90 | User: None
+2026-05-01 23:41:25,942 [INFO]   ✅  [31] Metaphor: ReFantazio | Critic: None | User: None
+2026-05-01 23:41:28,254 [INFO]   ✅  [32] God of War: Ragnarok | Critic: 100 | User: None
+2026-05-01 23:41:30,570 [INFO]   ✅  [33] The Last of Us Part II | Critic: 90 | User: None
+2026-05-01 23:41:32,879 [INFO]   ✅  [34] Half-Life: Alyx | Critic: 95 | User: None
+2026-05-01 23:41:35,194 [INFO]   ✅  [35] Divinity: Original Sin II | Critic: 95 | User: None
+2026-05-01 23:41:38,027 [INFO]   ✅  [36] Persona 5 | Critic: 90 | User: None
+2026-05-01 23:41:40,758 [INFO]   ✅  [37] Metal Gear Solid V: The Phantom Pain | Critic: None | User: None
+2026-05-01 23:41:43,671 [INFO]   ✅  [38] Hades | Critic: 95 | User: None
+2026-05-01 23:41:45,951 [INFO]   ✅  [39] Resident Evil 4 | Critic: 90 | User: None
+2026-05-01 23:41:48,323 [INFO]   ✅  [40] Uncharted 4: A Thief's End | Critic: 100 | User: None
+2026-05-01 23:41:51,103 [INFO]   ✅  [41] Super Smash Bros. Ultimate | Critic: 95 | User: None
+2026-05-01 23:41:55,104 [INFO] ── Browse page 2/5 ──
+2026-05-01 23:41:55,727 [INFO] Page 2: found 41 game links
+2026-05-01 23:41:56,034 [INFO]   ✅  [42] INSIDE | Critic: 100 | User: None
+2026-05-01 23:41:58,354 [INFO]   ✅  [43] Forza Horizon 4 | Critic: 100 | User: None
+2026-05-01 23:42:01,317 [INFO]   ✅  [44] Final Fantasy VII Rebirth | Critic: 91 | User: None
+2026-05-01 23:42:05,098 [INFO]   ✅  [45] Super Mario Bros. Wonder | Critic: 100 | User: None
+2026-05-01 23:42:08,110 [INFO]   ✅  [46] Xenoblade Chronicles 3: Expansion Pass Wave 4 - Future Redeemed | Critic: 100 | User: None
+2026-05-01 23:42:10,437 [INFO]   ✅  [47] Bloodborne | Critic: 90 | User: None
+2026-05-01 23:42:13,300 [INFO]   ✅  [48] Celeste | Critic: 93 | User: None
+2026-05-01 23:42:16,349 [INFO]   ✅  [49] Forza Horizon 5 | Critic: 100 | User: None
+2026-05-01 23:42:18,985 [INFO]   ✅  [50] The Witcher 3: Wild Hunt | Critic: None | User: None
+2026-05-01 23:42:22,147 [INFO]   ✅  [51] Street Fighter 6 | Critic: 100 | User: None
+2026-05-01 23:42:24,472 [INFO]   ✅  [52] Demon's Souls | Critic: 90 | User: None
+2026-05-01 23:42:27,774 [INFO]   ✅  [53] Undertale | Critic: 89 | User: None
+2026-05-01 23:42:30,194 [INFO]   ✅  [54] Divinity: Original Sin II - Definitive Edition | Critic: 85 | User: None
+2026-05-01 23:42:32,496 [INFO]   ✅  [55] Final Fantasy XIV: Endwalker | Critic: 90 | User: None
+2026-05-01 23:42:35,400 [INFO]   ✅  [56] Mario Kart 8 Deluxe | Critic: 85 | User: None
+2026-05-01 23:42:38,422 [INFO]   ✅  [57] Out of the Park Baseball 17 | Critic: 80 | User: None
+2026-05-01 23:42:41,078 [INFO]   ✅  [58] The Witcher 3: Wild Hunt - Blood and Wine | Critic: 90 | User: None
+2026-05-01 23:42:43,399 [INFO]   ✅  [59] UFO 50 | Critic: 100 | User: None
+2026-05-01 23:42:45,748 [INFO]   ✅  [60] Against the Storm | Critic: 90 | User: None
+2026-05-01 23:42:48,836 [INFO]   ✅  [61] Microsoft Flight Simulator | Critic: 91 | User: None
+2026-05-01 23:42:51,632 [INFO]   ✅  [62] Slay The Princess - The Pristine Cut | Critic: 90 | User: None
+2026-05-01 23:42:54,624 [INFO]   ✅  [63] I Was a Teenage Exocolonist | Critic: 100 | User: None
+2026-05-01 23:42:57,993 [INFO]   ✅  [64] Overwatch (2016) | Critic: 90 | User: None
+2026-05-01 23:43:01,349 [INFO]   ✅  [65] Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | Critic: 96 | User: None
+2026-05-01 23:43:05,349 [INFO] ── Browse page 3/5 ──
+2026-05-01 23:43:06,324 [INFO] Page 3: found 41 game links
+2026-05-01 23:43:06,974 [INFO]   ✅  [66] Forza Horizon 3 | Critic: 90 | User: None
+2026-05-01 23:43:09,596 [INFO]   ✅  [67] Shadow of the Colossus | Critic: 90 | User: None
+2026-05-01 23:43:13,165 [INFO]   ✅  [68] Crusader Kings III | Critic: 90 | User: None
+2026-05-01 23:43:16,583 [INFO]   ✅  [69] Disco Elysium | Critic: 100 | User: None
+2026-05-01 23:43:18,950 [INFO]   ✅  [70] NieR: Automata - Game of the YoRHa Edition | Critic: 90 | User: None
+2026-05-01 23:43:21,572 [INFO]   ✅  [71] Resident Evil 2 | Critic: 90 | User: None
+2026-05-01 23:43:23,903 [INFO]   ✅  [72] Satisfactory | Critic: 100 | User: None
+2026-05-01 23:43:27,005 [INFO]   ✅  [73] Caves of Qud | Critic: 90 | User: None
+2026-05-01 23:43:29,294 [INFO]   ✅  [74] Shovel Knight: Treasure Trove | Critic: None | User: None
+2026-05-01 23:43:32,561 [INFO]   ✅  [75] Balatro | Critic: 100 | User: None
+2026-05-01 23:43:35,829 [INFO]   ✅  [76] Animal Well | Critic: 85 | User: None
+2026-05-01 23:43:38,567 [INFO]   ✅  [77] Animal Crossing: New Horizons | Critic: 95 | User: None
+2026-05-01 23:43:42,013 [INFO]   ✅  [78] Final Fantasy XIV: Shadowbringers | Critic: 70 | User: None
+2026-05-01 23:43:44,946 [INFO]   ✅  [79] Slay the Princess | Critic: 100 | User: None
+2026-05-01 23:43:48,141 [INFO]   ✅  [80] Factorio | Critic: 85 | User: None
+2026-05-01 23:43:50,855 [INFO]   ✅  [81] Marvel's Spider-Man 2 | Critic: 95 | User: None
+2026-05-01 23:43:54,043 [INFO]   ✅  [82] Jack Jeanne | Critic: 75 | User: None
+2026-05-01 23:43:56,368 [INFO]   ✅  [83] NieR: Automata - Become as Gods Edition | Critic: 90 | User: None
+2026-05-01 23:43:59,700 [INFO]   ✅  [84] Tsukihime: A Piece of Blue Glass Moon | Critic: 100 | User: None
+2026-05-01 23:44:02,769 [INFO]   ✅  [85] Stephen's Sausage Roll | Critic: None | User: None
+2026-05-01 23:44:05,222 [INFO]   ✅  [86] Hollow Knight | Critic: 90 | User: None
+2026-05-01 23:44:08,458 [INFO]   ✅  [87] Ori and the Will of the Wisps | Critic: 80 | User: None
+2026-05-01 23:44:11,737 [INFO]   ✅  [88] VIDEOVERSE | Critic: 100 | User: None
+2026-05-01 23:44:14,104 [INFO]   ✅  [89] The Last of Us Part II Remastered | Critic: None | User: None
+2026-05-01 23:44:18,104 [INFO] ── Browse page 4/5 ──
+2026-05-01 23:44:18,986 [INFO] Page 4: found 41 game links
+2026-05-01 23:44:20,313 [INFO]   ✅  [90] DAVE THE DIVER | Critic: 95 | User: None
+2026-05-01 23:44:22,662 [INFO]   ✅  [91] Chained Echoes | Critic: 90 | User: None
+2026-05-01 23:44:25,544 [INFO]   ✅  [92] Mario Kart 8 DLC Pack 2 | Critic: 85 | User: None
+2026-05-01 23:44:27,897 [INFO]   ✅  [93] The Stanley Parable: Ultra Deluxe | Critic: 80 | User: None
+2026-05-01 23:44:30,967 [INFO]   ✅  [94] Monster Hunter: World | Critic: 90 | User: None
+2026-05-01 23:44:33,743 [INFO]   ✅  [95] Into the Breach | Critic: 100 | User: None
+2026-05-01 23:44:37,483 [INFO]   ✅  [96] Chicory: A Colorful Tale | Critic: 100 | User: None
+2026-05-01 23:44:40,709 [INFO]   ✅  [97] Tekken 8 | Critic: 90 | User: None
+2026-05-01 23:44:43,348 [INFO]   ✅  [98] Sekiro: Shadows Die Twice | Critic: 90 | User: None
+2026-05-01 23:44:47,179 [INFO]   ✅  [99] Bayonetta + Bayonetta 2 | Critic: 90 | User: None
+2026-05-01 23:44:50,269 [INFO]   ✅  [100] Kentucky Route Zero - Act IV | Critic: 93 | User: None
+2026-05-01 23:44:53,598 [INFO]   ✅  [101] Astro Bot Rescue Mission | Critic: 85 | User: None
+2026-05-01 23:44:56,905 [INFO]   ✅  [102] The Witcher 3: Wild Hunt - Hearts of Stone | Critic: 95 | User: None
+2026-05-01 23:44:59,808 [INFO]   ✅  [103] Neon White | Critic: 83 | User: None
+2026-05-01 23:45:03,298 [INFO]   ✅  [104] Xenoblade Chronicles: Definitive Edition | Critic: 100 | User: None
+2026-05-01 23:45:06,579 [INFO]   ✅  [105] The Legend of Zelda: Majora's Mask 3D | Critic: 90 | User: None
+2026-05-01 23:45:09,514 [INFO]   ✅  [106] Monster Hunter: World - Iceborne | Critic: 90 | User: None
+2026-05-01 23:45:12,957 [INFO]   ✅  [107] Dead Cells | Critic: 83 | User: None
+2026-05-01 23:45:16,056 [INFO]   ✅  [108] Pillars of Eternity | Critic: 70 | User: None
+2026-05-01 23:45:19,334 [INFO]   ✅  [109] Rez Infinite | Critic: 85 | User: None
+2026-05-01 23:45:22,385 [INFO]   ✅  [110] Pizza Tower | Critic: 90 | User: None
+2026-05-01 23:45:25,506 [INFO]   ✅  [111] Slay the Spire | Critic: 95 | User: None
+2026-05-01 23:45:27,836 [INFO]   ✅  [112] Titanfall 2 | Critic: 100 | User: None
+2026-05-01 23:45:30,344 [INFO]   ✅  [113] Dark Souls III | Critic: 90 | User: None
+2026-05-01 23:45:34,345 [INFO] ── Browse page 5/5 ──
+2026-05-01 23:45:35,627 [INFO] Page 5: found 41 game links
+2026-05-01 23:45:36,371 [INFO]   ✅  [114] Gunstar Heroes | Critic: 95 | User: None
+2026-05-01 23:45:39,646 [INFO]   ✅  [115] Xenoblade Chronicles 3 | Critic: 100 | User: None
+2026-05-01 23:45:43,107 [INFO]   ✅  [116] Super Mario 3D World + Bowser's Fury | Critic: 90 | User: None
+2026-05-01 23:45:45,897 [INFO]   ✅  [117] Kynseed | Critic: 100 | User: None
+2026-05-01 23:45:48,768 [INFO]   ✅  [118] Thank Goodness You're Here! | Critic: 95 | User: None
+2026-05-01 23:45:51,111 [INFO]   ✅  [119] Cyberpunk 2077: Phantom Liberty | Critic: 100 | User: None
+2026-05-01 23:45:54,476 [INFO]   ✅  [120] Tetris Effect | Critic: 90 | User: None
+2026-05-01 23:45:56,815 [INFO]   ✅  [121] Dead Space | Critic: 100 | User: None
+2026-05-01 23:45:59,662 [INFO]   ✅  [122] Atari 50: The Anniversary Celebration | Critic: 95 | User: None
+2026-05-01 23:46:03,077 [INFO]   ✅  [123] Final Fantasy VII Remake Intergrade | Critic: 80 | User: None
+2026-05-01 23:46:05,727 [INFO]   ✅  [124] Streets of Rage 2 | Critic: 85 | User: None
+2026-05-01 23:46:08,665 [INFO]   ✅  [125] Hollow Knight: Voidheart Edition | Critic: 80 | User: None
+2026-05-01 23:46:11,977 [INFO]   ✅  [126] Fire Emblem: Three Houses | Critic: 95 | User: None
+2026-05-01 23:46:14,333 [INFO]   ✅  [127] NieR: Automata - The End of YoRHa Edition | Critic: 90 | User: None
+2026-05-01 23:46:17,552 [INFO]   ✅  [128] Quake II - Enhanced Edition | Critic: 80 | User: None
+2026-05-01 23:46:20,272 [INFO]   ✅  [129] Destiny 2: The Final Shape | Critic: 90 | User: None
+2026-05-01 23:46:23,413 [INFO]   ✅  [130] Horizon Forbidden West: Complete Edition | Critic: 95 | User: None
+2026-05-01 23:46:26,340 [INFO]   ✅  [131] Nuclear Throne | Critic: 100 | User: None
+2026-05-01 23:46:29,614 [INFO]   ✅  [132] Like a Dragon: Infinite Wealth | Critic: 90 | User: None
+2026-05-01 23:46:32,351 [INFO]   ✅  [133] Cuphead in the Delicious Last Course | Critic: 95 | User: None
+2026-05-01 23:46:35,153 [INFO]   ✅  [134] Lone Echo | Critic: 85 | User: None
+2026-05-01 23:46:37,882 [INFO]   ✅  [135] Apex Legends | Critic: 90 | User: None
+2026-05-01 23:46:40,620 [INFO]   ✅  [136] NORCO | Critic: 83 | User: None
+2026-05-01 23:46:43,509 [INFO]   ✅  [137] Synth Riders | Critic: 100 | User: None
+2026-05-01 23:46:47,515 [INFO] 
+✅  Done. 137 records saved to data/games_raw.json
+2026-05-02 00:00:39,261 [INFO] Starting scraper | pages=5 | delay=2s
+2026-05-02 00:00:39,261 [INFO] ── Browse page 1/5 ──
+2026-05-02 00:00:40,557 [INFO] Page 1: found 41 game links
+2026-05-02 00:00:40,956 [INFO]   [1] Games | Critic: 65 | Genre: None | Platform: None
+2026-05-02 00:00:43,257 [INFO]   [2] Best Games This Year | Critic: 89 | Genre: None | Platform: None
+2026-05-02 00:00:45,627 [INFO]   [3] Best Games of All Time | Critic: 99 | Genre: None | Platform: None
+2026-05-02 00:00:47,914 [INFO]   [4] All Upcoming Game Releases | Critic: None | Genre: None | Platform: None
+2026-05-02 00:00:50,679 [INFO]   [5] New Games on PS5 | Critic: 88 | Genre: None | Platform: None
+2026-05-02 00:00:53,324 [INFO]   [6] New Games on Xbox Series X/S | Critic: None | Genre: None | Platform: None
+2026-05-02 00:00:56,188 [INFO]   [7] New Games on PC | Critic: None | Genre: None | Platform: None
+2026-05-02 00:00:58,919 [INFO]   [8] New Games on Nintendo Switch and Nintendo Switch 2 | Critic: None | Genre: None | Platform: None
+2026-05-02 00:01:01,209 [INFO]   [9] Xbox Series X Critic Reviews | Critic: None | Genre: None | Platform: None
+2026-05-02 00:01:26,662 [INFO] Starting scraper | pages=5 | delay=2s
+2026-05-02 00:01:26,662 [INFO] ── Browse page 1/5 ──
+2026-05-02 00:01:27,345 [INFO] Page 1: found 41 game links
+2026-05-02 00:01:27,695 [INFO]   [1] Games | Critic: 65 | Genre: None | Platform: None
+2026-05-02 00:01:29,906 [INFO]   [2] Best Games This Year | Critic: 89 | Genre: None | Platform: None
+2026-05-02 00:01:32,459 [INFO]   [3] Best Games of All Time | Critic: 99 | Genre: None | Platform: None
+2026-05-02 00:01:35,415 [INFO]   [4] All Upcoming Game Releases | Critic: None | Genre: None | Platform: None
+2026-05-02 00:01:37,676 [INFO]   [5] New Games on PS5 | Critic: 88 | Genre: None | Platform: None
+2026-05-02 00:01:39,916 [INFO]   [6] New Games on Xbox Series X/S | Critic: None | Genre: None | Platform: None
+2026-05-02 00:01:42,131 [INFO]   [7] New Games on PC | Critic: None | Genre: None | Platform: None
+2026-05-02 00:01:44,387 [INFO]   [8] New Games on Nintendo Switch and Nintendo Switch 2 | Critic: None | Genre: None | Platform: None
+2026-05-02 00:01:46,596 [INFO]   [9] Xbox Series X Critic Reviews | Critic: None | Genre: None | Platform: None
+2026-05-02 00:01:48,865 [INFO]   [10] SAROS | Critic: 80 | Genre: Third Person Shooter | Platform: None
+2026-05-02 00:01:51,252 [INFO]   [11] Invincible VS | Critic: 70 | Genre: 2D Fighting | Platform: None
+2026-05-02 00:01:55,641 [INFO]   [12] Aphelion | Critic: 65 | Genre: Action Adventure | Platform: None
+2026-05-02 00:01:58,095 [INFO]   [13] Diablo IV: Lord of Hatred | Critic: None | Genre: Action RPG | Platform: None
+2026-05-02 00:02:00,796 [INFO]   [14] Vampire Crawlers: The Turbo Wildcard from Vampire Survivors | Critic: 80 | Genre: Card Battle | Platform: None
+2026-05-02 00:02:03,079 [INFO]   [15] PRAGMATA | Critic: 80 | Genre: Action Adventure | Platform: None
+2026-05-02 00:02:06,398 [INFO]   [16] MOUSE: P.I. For Hire | Critic: 95 | Genre: FPS | Platform: None
+2026-05-02 00:02:08,713 [INFO]   [17] Tomodachi Life: Living the Dream | Critic: 80 | Genre: Virtual Life | Platform: None
+2026-05-02 00:02:12,003 [INFO]   [18] The Legend of Zelda: Breath of the Wild | Critic: 100 | Genre: Open-World Action | Platform: None
+2026-05-02 00:02:14,295 [INFO]   [19] Red Dead Redemption 2 | Critic: 95 | Genre: Open-World Action | Platform: None
+2026-05-02 00:02:16,978 [INFO]   [20] Super Mario Odyssey | Critic: 90 | Genre: 3D Platformer | Platform: None
+2026-05-02 00:02:19,994 [INFO]   [21] Baldur's Gate 3 | Critic: 90 | Genre: Western RPG | Platform: None
+2026-05-02 00:02:22,293 [INFO]   [22] The House in Fata Morgana - Dreams of the Revenants Edition - | Critic: 90 | Genre: Visual Novel | Platform: None
+2026-05-02 00:02:26,111 [INFO]   [23] Elden Ring | Critic: 100 | Genre: Action RPG | Platform: None
+2026-05-02 00:02:28,913 [INFO]   [24] The Legend of Zelda: Tears of the Kingdom | Critic: 100 | Genre: Open-World Action | Platform: None
+2026-05-02 00:02:31,208 [INFO]   [25] Portal: Companion Collection | Critic: 90 | Genre: Compilation | Platform: None
+2026-05-02 00:02:33,833 [INFO]   [26] Persona 5 Royal | Critic: 100 | Genre: JRPG | Platform: None
+2026-05-02 00:02:36,546 [INFO]   [27] Astro Bot | Critic: 100 | Genre: 3D Platformer | Platform: None
+2026-05-02 00:02:39,716 [INFO]   [28] God of War | Critic: 100 | Genre: Linear Action Adventure | Platform: None
+2026-05-02 00:02:42,493 [INFO]   [29] Elden Ring: Shadow of the Erdtree | Critic: 80 | Genre: Action RPG | Platform: None
+2026-05-02 00:02:45,238 [INFO]   [30] Metroid Prime Remastered | Critic: 90 | Genre: FPS | Platform: None
+2026-05-02 00:02:48,196 [INFO]   [31] Metaphor: ReFantazio | Critic: None | Genre: JRPG | Platform: None
+2026-05-02 00:02:51,444 [INFO]   [32] God of War: Ragnarok | Critic: 100 | Genre: Action Adventure | Platform: None
+2026-05-02 00:02:54,290 [INFO]   [33] The Last of Us Part II | Critic: 90 | Genre: Survival | Platform: None
+2026-05-02 00:02:56,972 [INFO]   [34] Half-Life: Alyx | Critic: 95 | Genre: FPS | Platform: None
+2026-05-02 00:02:59,494 [INFO]   [35] Divinity: Original Sin II | Critic: 95 | Genre: Western RPG | Platform: None
+2026-05-02 00:03:02,561 [INFO]   [36] Persona 5 | Critic: 90 | Genre: JRPG | Platform: None
+2026-05-02 00:03:05,569 [INFO]   [37] Metal Gear Solid V: The Phantom Pain | Critic: None | Genre: Open-World Action | Platform: None
+2026-05-02 00:03:08,747 [INFO]   [38] Hades | Critic: 95 | Genre: Action RPG | Platform: None
+2026-05-02 00:03:11,330 [INFO]   [39] Resident Evil 4 | Critic: 90 | Genre: Survival | Platform: None
+2026-05-02 00:03:14,040 [INFO]   [40] Uncharted 4: A Thief's End | Critic: 100 | Genre: Linear Action Adventure | Platform: None
+2026-05-02 00:03:17,149 [INFO]   [41] Super Smash Bros. Ultimate | Critic: 95 | Genre: 2D Fighting | Platform: None
+2026-05-02 00:03:21,150 [INFO] ── Browse page 2/5 ──
+2026-05-02 00:03:21,839 [INFO] Page 2: found 41 game links
+2026-05-02 00:03:22,229 [INFO]   [42] INSIDE | Critic: 100 | Genre: 2D Platformer | Platform: None
+2026-05-02 00:03:24,861 [INFO]   [43] Forza Horizon 4 | Critic: 100 | Genre: Auto Racing Sim | Platform: None
+2026-05-02 00:03:27,867 [INFO]   [44] Final Fantasy VII Rebirth | Critic: 91 | Genre: Action RPG | Platform: None
+2026-05-02 00:03:31,097 [INFO]   [45] Super Mario Bros. Wonder | Critic: 100 | Genre: 2D Platformer | Platform: None
+2026-05-02 00:03:34,071 [INFO]   [46] Xenoblade Chronicles 3: Expansion Pass Wave 4 - Future Redeemed | Critic: 100 | Genre: Action RPG | Platform: None
+2026-05-02 00:03:36,482 [INFO]   [47] Bloodborne | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:03:39,457 [INFO]   [48] Celeste | Critic: 93 | Genre: 2D Platformer | Platform: None
+2026-05-02 00:03:49,807 [INFO]   [49] Forza Horizon 5 | Critic: 100 | Genre: Auto Racing Sim | Platform: None
+2026-05-02 00:03:52,155 [INFO]   [50] The Witcher 3: Wild Hunt | Critic: None | Genre: Action RPG | Platform: None
+2026-05-02 00:03:54,520 [INFO]   [51] Street Fighter 6 | Critic: 100 | Genre: 2D Fighting | Platform: None
+2026-05-02 00:03:57,470 [INFO]   [52] Demon's Souls | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:04:00,932 [INFO]   [53] Undertale | Critic: 89 | Genre: JRPG | Platform: None
+2026-05-02 00:04:04,022 [INFO]   [54] Divinity: Original Sin II - Definitive Edition | Critic: 85 | Genre: Western RPG | Platform: None
+2026-05-02 00:04:08,999 [INFO]   [55] Final Fantasy XIV: Endwalker | Critic: 90 | Genre: MMORPG | Platform: None
+2026-05-02 00:04:11,754 [INFO]   [56] Mario Kart 8 Deluxe | Critic: 85 | Genre: Auto Racing | Platform: None
+2026-05-02 00:04:14,074 [INFO]   [57] Out of the Park Baseball 17 | Critic: 80 | Genre: Baseball Sim | Platform: None
+2026-05-02 00:04:16,363 [INFO]   [58] The Witcher 3: Wild Hunt - Blood and Wine | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:04:19,376 [INFO]   [59] UFO 50 | Critic: 100 | Genre: Party | Platform: None
+2026-05-02 00:04:22,246 [INFO]   [60] Against the Storm | Critic: 90 | Genre: Management | Platform: None
+2026-05-02 00:04:24,850 [INFO]   [61] Microsoft Flight Simulator | Critic: 91 | Genre: Aircraft Sim | Platform: None
+2026-05-02 00:04:28,207 [INFO]   [62] Slay The Princess - The Pristine Cut | Critic: 90 | Genre: Visual Novel | Platform: None
+2026-05-02 00:04:31,513 [INFO]   [63] I Was a Teenage Exocolonist | Critic: 100 | Genre: Card Battle | Platform: None
+2026-05-02 00:04:34,994 [INFO]   [64] Overwatch (2016) | Critic: 90 | Genre: Tactical FPS | Platform: None
+2026-05-02 00:04:37,701 [INFO]   [65] Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | Critic: 96 | Genre: JRPG | Platform: None
+2026-05-02 00:04:41,703 [INFO] ── Browse page 3/5 ──
+2026-05-02 00:04:42,409 [INFO] Page 3: found 41 game links
+2026-05-02 00:04:42,674 [INFO]   [66] Forza Horizon 3 | Critic: 90 | Genre: Auto Racing Sim | Platform: None
+2026-05-02 00:04:45,489 [INFO]   [67] Shadow of the Colossus | Critic: 90 | Genre: Action Adventure | Platform: None
+2026-05-02 00:04:48,902 [INFO]   [68] Crusader Kings III | Critic: 90 | Genre: Real-Time Strategy | Platform: None
+2026-05-02 00:04:51,197 [INFO]   [69] Disco Elysium | Critic: 100 | Genre: Western RPG | Platform: None
+2026-05-02 00:04:53,546 [INFO]   [70] NieR: Automata - Game of the YoRHa Edition | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:04:55,851 [INFO]   [71] Resident Evil 2 | Critic: 90 | Genre: Survival | Platform: None
+2026-05-02 00:04:58,680 [INFO]   [72] Satisfactory | Critic: 100 | Genre: Sandbox | Platform: None
+2026-05-02 00:05:02,327 [INFO]   [73] Caves of Qud | Critic: 90 | Genre: Roguelike | Platform: None
+2026-05-02 00:05:05,344 [INFO]   [74] Shovel Knight: Treasure Trove | Critic: None | Genre: 2D Platformer | Platform: None
+2026-05-02 00:05:08,138 [INFO]   [75] Animal Well | Critic: 85 | Genre: Metroidvania | Platform: None
+2026-05-02 00:05:11,167 [INFO]   [76] Balatro | Critic: 100 | Genre: Card Battle | Platform: None
+2026-05-02 00:05:13,856 [INFO]   [77] Animal Crossing: New Horizons | Critic: 95 | Genre: Virtual Life | Platform: None
+2026-05-02 00:05:16,509 [INFO]   [78] Final Fantasy XIV: Shadowbringers | Critic: 70 | Genre: MMORPG | Platform: None
+2026-05-02 00:05:19,268 [INFO]   [79] Slay the Princess | Critic: 100 | Genre: Visual Novel | Platform: None
+2026-05-02 00:05:21,870 [INFO]   [80] Factorio | Critic: 85 | Genre: Tycoon | Platform: None
+2026-05-02 00:05:24,453 [INFO]   [81] Marvel's Spider-Man 2 | Critic: 95 | Genre: Open-World Action | Platform: None
+2026-05-02 00:05:27,258 [INFO]   [82] Jack Jeanne | Critic: 75 | Genre: Visual Novel | Platform: None
+2026-05-02 00:05:29,544 [INFO]   [83] NieR: Automata - Become as Gods Edition | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:05:31,828 [INFO]   [84] Stephen's Sausage Roll | Critic: None | Genre: Action Puzzle | Platform: None
+2026-05-02 00:05:35,058 [INFO]   [85] Tsukihime: A Piece of Blue Glass Moon | Critic: 100 | Genre: Visual Novel | Platform: None
+2026-05-02 00:05:38,255 [INFO]   [86] Hollow Knight | Critic: 90 | Genre: Metroidvania | Platform: None
+2026-05-02 00:05:40,557 [INFO]   [87] Ori and the Will of the Wisps | Critic: 80 | Genre: Metroidvania | Platform: None
+2026-05-02 00:05:43,318 [INFO]   [88] VIDEOVERSE | Critic: 100 | Genre: Adventure | Platform: None
+2026-05-02 00:05:45,660 [INFO]   [89] The Last of Us Part II Remastered | Critic: None | Genre: Survival | Platform: None
+2026-05-02 00:05:49,660 [INFO] ── Browse page 4/5 ──
+2026-05-02 00:05:50,239 [INFO] Page 4: found 41 game links
+2026-05-02 00:05:50,942 [INFO]   [90] DAVE THE DIVER | Critic: 95 | Genre: Action Adventure | Platform: None
+2026-05-02 00:05:54,688 [INFO]   [91] Chained Echoes | Critic: 90 | Genre: JRPG | Platform: None
+2026-05-02 00:05:57,965 [INFO]   [92] Mario Kart 8 DLC Pack 2 | Critic: 85 | Genre: Auto Racing | Platform: None
+2026-05-02 00:06:00,262 [INFO]   [93] The Stanley Parable: Ultra Deluxe | Critic: 80 | Genre: First-Person Adventure | Platform: None
+2026-05-02 00:06:02,890 [INFO]   [94] Monster Hunter: World | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:06:06,001 [INFO]   [95] Into the Breach | Critic: 100 | Genre: Turn-Based Tactics | Platform: None
+2026-05-02 00:06:09,006 [INFO]   [96] Chicory: A Colorful Tale | Critic: 100 | Genre: Adventure | Platform: None
+2026-05-02 00:06:12,416 [INFO]   [97] Tekken 8 | Critic: 90 | Genre: 3D Fighting | Platform: None
+2026-05-02 00:06:15,154 [INFO]   [98] Sekiro: Shadows Die Twice | Critic: 90 | Genre: Action Adventure | Platform: None
+2026-05-02 00:06:18,182 [INFO]   [99] Bayonetta + Bayonetta 2 | Critic: 90 | Genre: Compilation | Platform: None
+2026-05-02 00:06:20,508 [INFO]   [100] Kentucky Route Zero - Act IV | Critic: 93 | Genre: Adventure | Platform: None
+2026-05-02 00:06:23,911 [INFO]   [101] Astro Bot Rescue Mission | Critic: 85 | Genre: Action Adventure | Platform: None
+2026-05-02 00:06:26,315 [INFO]   [102] The Witcher 3: Wild Hunt - Hearts of Stone | Critic: 95 | Genre: Action RPG | Platform: None
+2026-05-02 00:06:29,213 [INFO]   [103] Neon White | Critic: 83 | Genre: FPS | Platform: None
+2026-05-02 00:06:32,676 [INFO]   [104] Xenoblade Chronicles: Definitive Edition | Critic: 100 | Genre: Action RPG | Platform: None
+2026-05-02 00:06:36,448 [INFO]   [105] The Legend of Zelda: Majora's Mask 3D | Critic: 90 | Genre: Open-World Action | Platform: None
+2026-05-02 00:06:39,276 [INFO]   [106] Monster Hunter: World - Iceborne | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:06:42,088 [INFO]   [107] Dead Cells | Critic: 83 | Genre: Metroidvania | Platform: None
+2026-05-02 00:06:45,266 [INFO]   [108] Pillars of Eternity | Critic: 70 | Genre: Western RPG | Platform: None
+2026-05-02 00:06:47,905 [INFO]   [109] Rez Infinite | Critic: 85 | Genre: Rail Shooter | Platform: None
+2026-05-02 00:06:50,667 [INFO]   [110] Pizza Tower | Critic: 90 | Genre: 2D Platformer | Platform: None
+2026-05-02 00:06:53,947 [INFO]   [111] Slay the Spire | Critic: 95 | Genre: Card Battle | Platform: None
+2026-05-02 00:06:56,307 [INFO]   [112] Titanfall 2 | Critic: 100 | Genre: FPS | Platform: None
+2026-05-02 00:06:58,648 [INFO]   [113] Dark Souls III | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:07:02,650 [INFO] ── Browse page 5/5 ──
+2026-05-02 00:07:03,296 [INFO] Page 5: found 41 game links
+2026-05-02 00:07:03,589 [INFO]   [114] Gunstar Heroes | Critic: 95 | Genre: 2D Platformer | Platform: None
+2026-05-02 00:07:06,576 [INFO]   [115] Xenoblade Chronicles 3 | Critic: 100 | Genre: Action RPG | Platform: None
+2026-05-02 00:07:09,915 [INFO]   [116] Super Mario 3D World + Bowser's Fury | Critic: 90 | Genre: 3D Platformer | Platform: None
+2026-05-02 00:07:12,670 [INFO]   [117] Kynseed | Critic: 100 | Genre: RPG | Platform: None
+2026-05-02 00:07:15,978 [INFO]   [118] Thank Goodness You're Here! | Critic: 95 | Genre: Adventure | Platform: None
+2026-05-02 00:12:06,336 [INFO] Starting scraper | pages=5 | delay=2s
+2026-05-02 00:12:06,337 [INFO] ── Browse page 1/5 ──
+2026-05-02 00:12:07,442 [INFO] Page 1: found 41 game links
+2026-05-02 00:12:07,807 [INFO]   [1] Games | Critic: 65 | Genre: None | Platform: None
+2026-05-02 00:12:10,119 [INFO]   [2] Best Games This Year | Critic: 89 | Genre: None | Platform: None
+2026-05-02 00:12:12,818 [INFO]   [3] Best Games of All Time | Critic: 99 | Genre: None | Platform: None
+2026-05-02 00:12:15,450 [INFO]   [4] All Upcoming Game Releases | Critic: None | Genre: None | Platform: None
+2026-05-02 00:12:18,293 [INFO]   [5] New Games on PS5 | Critic: 88 | Genre: None | Platform: None
+2026-05-02 00:12:21,077 [INFO]   [6] New Games on Xbox Series X/S | Critic: None | Genre: None | Platform: None
+2026-05-02 00:12:23,810 [INFO]   [7] New Games on PC | Critic: None | Genre: None | Platform: None
+2026-05-02 00:12:26,324 [INFO]   [8] New Games on Nintendo Switch and Nintendo Switch 2 | Critic: None | Genre: None | Platform: None
+2026-05-02 00:12:28,935 [INFO]   [9] Xbox Series X Critic Reviews | Critic: None | Genre: None | Platform: None
+2026-05-02 00:12:31,243 [INFO]   [10] SAROS | Critic: 80 | Genre: Third Person Shooter | Platform: None
+2026-05-02 00:12:33,532 [INFO]   [11] Invincible VS | Critic: 70 | Genre: 2D Fighting | Platform: None
+2026-05-02 00:12:36,416 [INFO]   [12] Aphelion | Critic: 65 | Genre: Action Adventure | Platform: None
+2026-05-02 00:12:38,798 [INFO]   [13] Diablo IV: Lord of Hatred | Critic: None | Genre: Action RPG | Platform: None
+2026-05-02 00:12:42,698 [INFO]   [14] Vampire Crawlers: The Turbo Wildcard from Vampire Survivors | Critic: 80 | Genre: Card Battle | Platform: None
+2026-05-02 00:12:44,985 [INFO]   [15] PRAGMATA | Critic: 80 | Genre: Action Adventure | Platform: None
+2026-05-02 00:12:47,949 [INFO]   [16] MOUSE: P.I. For Hire | Critic: 95 | Genre: FPS | Platform: None
+2026-05-02 00:12:50,446 [INFO]   [17] Tomodachi Life: Living the Dream | Critic: 80 | Genre: Virtual Life | Platform: None
+2026-05-02 00:12:53,617 [INFO]   [18] The Legend of Zelda: Breath of the Wild | Critic: 100 | Genre: Open-World Action | Platform: None
+2026-05-02 00:12:55,927 [INFO]   [19] Red Dead Redemption 2 | Critic: 95 | Genre: Open-World Action | Platform: None
+2026-05-02 00:12:58,223 [INFO]   [20] Super Mario Odyssey | Critic: 90 | Genre: 3D Platformer | Platform: None
+2026-05-02 00:13:01,260 [INFO]   [21] Baldur's Gate 3 | Critic: 90 | Genre: Western RPG | Platform: None
+2026-05-02 00:13:03,905 [INFO]   [22] The House in Fata Morgana - Dreams of the Revenants Edition - | Critic: 90 | Genre: Visual Novel | Platform: None
+2026-05-02 00:13:07,378 [INFO]   [23] Elden Ring | Critic: 100 | Genre: Action RPG | Platform: None
+2026-05-02 00:13:09,679 [INFO]   [24] The Legend of Zelda: Tears of the Kingdom | Critic: 100 | Genre: Open-World Action | Platform: None
+2026-05-02 00:13:13,167 [INFO]   [25] Portal: Companion Collection | Critic: 90 | Genre: Compilation | Platform: None
+2026-05-02 00:13:15,797 [INFO]   [26] Persona 5 Royal | Critic: 100 | Genre: JRPG | Platform: None
+2026-05-02 00:13:18,676 [INFO]   [27] Astro Bot | Critic: 100 | Genre: 3D Platformer | Platform: None
+2026-05-02 00:13:21,359 [INFO]   [28] God of War | Critic: 100 | Genre: Linear Action Adventure | Platform: None
+2026-05-02 00:13:24,076 [INFO]   [29] Elden Ring: Shadow of the Erdtree | Critic: 80 | Genre: Action RPG | Platform: None
+2026-05-02 00:13:26,807 [INFO]   [30] Metroid Prime Remastered | Critic: 90 | Genre: FPS | Platform: None
+2026-05-02 00:13:29,783 [INFO]   [31] Metaphor: ReFantazio | Critic: None | Genre: JRPG | Platform: None
+2026-05-02 00:13:32,752 [INFO]   [32] God of War: Ragnarok | Critic: 100 | Genre: Action Adventure | Platform: None
+2026-05-02 00:13:35,547 [INFO]   [33] The Last of Us Part II | Critic: 90 | Genre: Survival | Platform: None
+2026-05-02 00:13:38,616 [INFO]   [34] Half-Life: Alyx | Critic: 95 | Genre: FPS | Platform: None
+2026-05-02 00:13:41,533 [INFO]   [35] Divinity: Original Sin II | Critic: 95 | Genre: Western RPG | Platform: None
+2026-05-02 00:13:45,084 [INFO]   [36] Persona 5 | Critic: 90 | Genre: JRPG | Platform: None
+2026-05-02 00:13:48,273 [INFO]   [37] Metal Gear Solid V: The Phantom Pain | Critic: None | Genre: Open-World Action | Platform: None
+2026-05-02 00:13:51,251 [INFO]   [38] Hades | Critic: 95 | Genre: Action RPG | Platform: None
+2026-05-02 00:13:53,873 [INFO]   [39] Resident Evil 4 | Critic: 90 | Genre: Survival | Platform: None
+2026-05-02 00:13:57,145 [INFO]   [40] Uncharted 4: A Thief's End | Critic: 100 | Genre: Linear Action Adventure | Platform: None
+2026-05-02 00:14:01,435 [INFO]   [41] Super Smash Bros. Ultimate | Critic: 95 | Genre: 2D Fighting | Platform: None
+2026-05-02 00:14:05,437 [INFO] ── Browse page 2/5 ──
+2026-05-02 00:14:06,183 [INFO] Page 2: found 41 game links
+2026-05-02 00:14:07,201 [INFO]   [42] INSIDE | Critic: 100 | Genre: 2D Platformer | Platform: None
+2026-05-02 00:14:09,837 [INFO]   [43] Forza Horizon 4 | Critic: 100 | Genre: Auto Racing Sim | Platform: None
+2026-05-02 00:15:50,621 [INFO] Starting scraper | pages=5 | delay=2s
+2026-05-02 00:15:50,622 [INFO] ── Browse page 1/5 ──
+2026-05-02 00:15:51,261 [INFO] Page 1: found 40 game links
+2026-05-02 00:15:51,535 [INFO]   [1] Best Games This Year | Critic: 89 | Genre: None | Platform: None
+2026-05-02 00:15:53,779 [INFO]   [2] Best Games of All Time | Critic: 99 | Genre: None | Platform: None
+2026-05-02 00:15:56,069 [INFO]   [3] All Upcoming Game Releases | Critic: None | Genre: None | Platform: None
+2026-05-02 00:15:58,277 [INFO]   [4] New Games on PS5 | Critic: 88 | Genre: None | Platform: None
+2026-05-02 00:16:00,512 [INFO]   [5] New Games on Xbox Series X/S | Critic: None | Genre: None | Platform: None
+2026-05-02 00:16:02,717 [INFO]   [6] New Games on PC | Critic: None | Genre: None | Platform: None
+2026-05-02 00:16:04,961 [INFO]   [7] New Games on Nintendo Switch and Nintendo Switch 2 | Critic: None | Genre: None | Platform: None
+2026-05-02 00:16:07,148 [INFO]   [8] Xbox Series X Critic Reviews | Critic: None | Genre: None | Platform: None
+2026-05-02 00:16:09,419 [INFO]   [9] SAROS | Critic: 80 | Genre: Third Person Shooter | Platform: None
+2026-05-02 00:16:11,705 [INFO]   [10] Invincible VS | Critic: 70 | Genre: 2D Fighting | Platform: None
+2026-05-02 00:16:13,986 [INFO]   [11] Aphelion | Critic: 65 | Genre: Action Adventure | Platform: None
+2026-05-02 00:16:16,288 [INFO]   [12] Diablo IV: Lord of Hatred | Critic: None | Genre: Action RPG | Platform: None
+2026-05-02 00:16:18,577 [INFO]   [13] Vampire Crawlers: The Turbo Wildcard from Vampire Survivors | Critic: 80 | Genre: Card Battle | Platform: None
+2026-05-02 00:16:20,862 [INFO]   [14] PRAGMATA | Critic: 80 | Genre: Action Adventure | Platform: None
+2026-05-02 00:16:23,136 [INFO]   [15] MOUSE: P.I. For Hire | Critic: 95 | Genre: FPS | Platform: None
+2026-05-02 00:16:25,412 [INFO]   [16] Tomodachi Life: Living the Dream | Critic: 80 | Genre: Virtual Life | Platform: None
+2026-05-02 00:16:27,726 [INFO]   [17] The Legend of Zelda: Breath of the Wild | Critic: 100 | Genre: Open-World Action | Platform: None
+2026-05-02 00:16:30,988 [INFO]   [18] Red Dead Redemption 2 | Critic: 95 | Genre: Open-World Action | Platform: None
+2026-05-02 00:16:33,325 [INFO]   [19] Super Mario Odyssey | Critic: 90 | Genre: 3D Platformer | Platform: None
+2026-05-02 00:16:35,627 [INFO]   [20] Baldur's Gate 3 | Critic: 90 | Genre: Western RPG | Platform: None
+2026-05-02 00:16:37,896 [INFO]   [21] The House in Fata Morgana - Dreams of the Revenants Edition - | Critic: 90 | Genre: Visual Novel | Platform: None
+2026-05-02 00:16:40,191 [INFO]   [22] Elden Ring | Critic: 100 | Genre: Action RPG | Platform: None
+2026-05-02 00:16:42,462 [INFO]   [23] The Legend of Zelda: Tears of the Kingdom | Critic: 100 | Genre: Open-World Action | Platform: None
+2026-05-02 00:16:44,724 [INFO]   [24] Portal: Companion Collection | Critic: 90 | Genre: Compilation | Platform: None
+2026-05-02 00:16:47,001 [INFO]   [25] Persona 5 Royal | Critic: 100 | Genre: JRPG | Platform: None
+2026-05-02 00:16:49,274 [INFO]   [26] Astro Bot | Critic: 100 | Genre: 3D Platformer | Platform: None
+2026-05-02 00:16:51,547 [INFO]   [27] God of War | Critic: 100 | Genre: Linear Action Adventure | Platform: None
+2026-05-02 00:16:53,817 [INFO]   [28] Elden Ring: Shadow of the Erdtree | Critic: 80 | Genre: Action RPG | Platform: None
+2026-05-02 00:16:56,079 [INFO]   [29] Metroid Prime Remastered | Critic: 90 | Genre: FPS | Platform: None
+2026-05-02 00:16:58,354 [INFO]   [30] Metaphor: ReFantazio | Critic: None | Genre: JRPG | Platform: None
+2026-05-02 00:17:00,639 [INFO]   [31] God of War: Ragnarok | Critic: 100 | Genre: Action Adventure | Platform: None
+2026-05-02 00:19:43,655 [INFO] Starting scraper | pages=5 | delay=2s
+2026-05-02 00:19:43,656 [INFO] ── Browse page 1/5 ──
+2026-05-02 00:19:44,474 [INFO] Page 1: found 41 game links
+2026-05-02 00:19:45,379 [INFO]   [1] Games | Critic: 65 | Genre: None | Platform: None
+2026-05-02 00:19:47,667 [INFO]   [2] Best Games This Year | Critic: 89 | Genre: None | Platform: None
+2026-05-02 00:19:49,929 [INFO]   [3] Best Games of All Time | Critic: 99 | Genre: None | Platform: None
+2026-05-02 00:19:52,205 [INFO]   [4] All Upcoming Game Releases | Critic: None | Genre: None | Platform: None
+2026-05-02 00:19:54,490 [INFO]   [5] New Games on PS5 | Critic: 88 | Genre: None | Platform: None
+2026-05-02 00:19:56,799 [INFO]   [6] New Games on Xbox Series X/S | Critic: None | Genre: None | Platform: None
+2026-05-02 00:19:59,087 [INFO]   [7] New Games on PC | Critic: None | Genre: None | Platform: None
+2026-05-02 00:20:01,410 [INFO]   [8] New Games on Nintendo Switch and Nintendo Switch 2 | Critic: None | Genre: None | Platform: None
+2026-05-02 00:20:03,677 [INFO]   [9] Xbox Series X Critic Reviews | Critic: None | Genre: None | Platform: None
+2026-05-02 00:20:06,008 [INFO]   [10] SAROS | Critic: 80 | Genre: Third Person Shooter | Platform: None
+2026-05-02 00:20:08,378 [INFO]   [11] Invincible VS | Critic: 70 | Genre: 2D Fighting | Platform: None
+2026-05-02 00:22:35,240 [INFO] Starting scraper | pages=5 | delay=2s
+2026-05-02 00:22:35,240 [INFO] ── Browse page 1/5 ──
+2026-05-02 00:22:36,405 [INFO] Page 1: found 40 game links
+2026-05-02 00:22:36,644 [INFO]   [1] Best Games This Year | Critic: 89 | Genre: None | Platform: None
+2026-05-02 00:22:38,880 [INFO]   [2] Best Games of All Time | Critic: 99 | Genre: None | Platform: None
+2026-05-02 00:22:41,481 [INFO]   [3] All Upcoming Game Releases | Critic: None | Genre: None | Platform: None
+2026-05-02 00:22:44,234 [INFO]   [4] New Games on PS5 | Critic: 88 | Genre: None | Platform: None
+2026-05-02 00:22:47,033 [INFO]   [5] New Games on Xbox Series X/S | Critic: None | Genre: None | Platform: None
+2026-05-02 00:22:49,546 [INFO]   [6] New Games on PC | Critic: None | Genre: None | Platform: None
+2026-05-02 00:25:14,902 [INFO] Starting scraper | pages=5 | delay=2s
+2026-05-02 00:25:14,902 [INFO] ── Browse page 1/5 ──
+2026-05-02 00:25:15,603 [INFO] Page 1: found 32 game links
+2026-05-02 00:25:15,910 [INFO]   [1] SAROS | Critic: 80 | Genre: Third Person Shooter | Platform: None
+2026-05-02 00:25:18,179 [INFO]   [2] Invincible VS | Critic: 70 | Genre: 2D Fighting | Platform: None
+2026-05-02 00:25:20,481 [INFO]   [3] Aphelion | Critic: 65 | Genre: Action Adventure | Platform: None
+2026-05-02 00:25:22,793 [INFO]   [4] Diablo IV: Lord of Hatred | Critic: None | Genre: Action RPG | Platform: None
+2026-05-02 00:25:25,954 [INFO]   [5] Vampire Crawlers: The Turbo Wildcard from Vampire Survivors | Critic: 80 | Genre: Card Battle | Platform: None
+2026-05-02 00:25:28,316 [INFO]   [6] PRAGMATA | Critic: 80 | Genre: Action Adventure | Platform: None
+2026-05-02 00:25:32,082 [INFO]   [7] MOUSE: P.I. For Hire | Critic: 95 | Genre: FPS | Platform: None
+2026-05-02 00:25:34,856 [INFO]   [8] Tomodachi Life: Living the Dream | Critic: 80 | Genre: Virtual Life | Platform: None
+2026-05-02 00:25:37,192 [INFO]   [9] The Legend of Zelda: Breath of the Wild | Critic: 100 | Genre: Open-World Action | Platform: None
+2026-05-02 00:25:39,490 [INFO]   [10] Red Dead Redemption 2 | Critic: 95 | Genre: Open-World Action | Platform: None
+2026-05-02 00:25:42,443 [INFO]   [11] Super Mario Odyssey | Critic: 90 | Genre: 3D Platformer | Platform: None
+2026-05-02 00:25:45,224 [INFO]   [12] Baldur's Gate 3 | Critic: 90 | Genre: Western RPG | Platform: None
+2026-05-02 00:25:47,947 [INFO]   [13] The House in Fata Morgana - Dreams of the Revenants Edition - | Critic: 90 | Genre: Visual Novel | Platform: None
+2026-05-02 00:25:50,256 [INFO]   [14] Elden Ring | Critic: 100 | Genre: Action RPG | Platform: None
+2026-05-02 00:25:53,473 [INFO]   [15] The Legend of Zelda: Tears of the Kingdom | Critic: 100 | Genre: Open-World Action | Platform: None
+2026-05-02 00:25:56,403 [INFO]   [16] Portal: Companion Collection | Critic: 90 | Genre: Compilation | Platform: None
+2026-05-02 00:25:59,184 [INFO]   [17] Persona 5 Royal | Critic: 100 | Genre: JRPG | Platform: None
+2026-05-02 00:26:01,783 [INFO]   [18] Astro Bot | Critic: 100 | Genre: 3D Platformer | Platform: None
+2026-05-02 00:26:04,762 [INFO]   [19] God of War | Critic: 100 | Genre: Linear Action Adventure | Platform: None
+2026-05-02 00:26:07,426 [INFO]   [20] Elden Ring: Shadow of the Erdtree | Critic: 80 | Genre: Action RPG | Platform: None
+2026-05-02 00:26:10,384 [INFO]   [21] Metroid Prime Remastered | Critic: 90 | Genre: FPS | Platform: None
+2026-05-02 00:26:13,703 [INFO]   [22] Metaphor: ReFantazio | Critic: None | Genre: JRPG | Platform: None
+2026-05-02 00:26:16,641 [INFO]   [23] God of War: Ragnarok | Critic: 100 | Genre: Action Adventure | Platform: None
+2026-05-02 00:26:20,038 [INFO]   [24] The Last of Us Part II | Critic: 90 | Genre: Survival | Platform: None
+2026-05-02 00:26:22,672 [INFO]   [25] Half-Life: Alyx | Critic: 95 | Genre: FPS | Platform: None
+2026-05-02 00:26:25,122 [INFO]   [26] Divinity: Original Sin II | Critic: 95 | Genre: Western RPG | Platform: None
+2026-05-02 00:26:28,143 [INFO]   [27] Persona 5 | Critic: 90 | Genre: JRPG | Platform: None
+2026-05-02 00:26:31,163 [INFO]   [28] Metal Gear Solid V: The Phantom Pain | Critic: None | Genre: Open-World Action | Platform: None
+2026-05-02 00:26:33,835 [INFO]   [29] Hades | Critic: 95 | Genre: Action RPG | Platform: None
+2026-05-02 00:26:36,828 [INFO]   [30] Resident Evil 4 | Critic: 90 | Genre: Survival | Platform: None
+2026-05-02 00:26:43,437 [INFO]   [31] Uncharted 4: A Thief's End | Critic: 100 | Genre: Linear Action Adventure | Platform: None
+2026-05-02 00:26:46,782 [INFO]   [32] Super Smash Bros. Ultimate | Critic: 95 | Genre: 2D Fighting | Platform: None
+2026-05-02 00:26:50,784 [INFO] ── Browse page 2/5 ──
+2026-05-02 00:26:52,167 [INFO] Page 2: found 32 game links
+2026-05-02 00:26:53,519 [INFO]   [33] INSIDE | Critic: 100 | Genre: 2D Platformer | Platform: None
+2026-05-02 00:26:56,415 [INFO]   [34] Forza Horizon 4 | Critic: 100 | Genre: Auto Racing Sim | Platform: None
+2026-05-02 00:26:59,276 [INFO]   [35] Final Fantasy VII Rebirth | Critic: 91 | Genre: Action RPG | Platform: None
+2026-05-02 00:27:01,887 [INFO]   [36] Super Mario Bros. Wonder | Critic: 100 | Genre: 2D Platformer | Platform: None
+2026-05-02 00:27:04,615 [INFO]   [37] Xenoblade Chronicles 3: Expansion Pass Wave 4 - Future Redeemed | Critic: 100 | Genre: Action RPG | Platform: None
+2026-05-02 00:27:07,890 [INFO]   [38] Bloodborne | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:27:11,122 [INFO]   [39] Celeste | Critic: 93 | Genre: 2D Platformer | Platform: None
+2026-05-02 00:27:14,265 [INFO]   [40] Forza Horizon 5 | Critic: 100 | Genre: Auto Racing Sim | Platform: None
+2026-05-02 00:27:16,991 [INFO]   [41] The Witcher 3: Wild Hunt | Critic: None | Genre: Action RPG | Platform: None
+2026-05-02 00:27:19,768 [INFO]   [42] Street Fighter 6 | Critic: 100 | Genre: 2D Fighting | Platform: None
+2026-05-02 00:27:22,391 [INFO]   [43] Demon's Souls | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:27:24,760 [INFO]   [44] Undertale | Critic: 89 | Genre: JRPG | Platform: None
+2026-05-02 00:27:27,615 [INFO]   [45] Divinity: Original Sin II - Definitive Edition | Critic: 85 | Genre: Western RPG | Platform: None
+2026-05-02 00:27:30,649 [INFO]   [46] Final Fantasy XIV: Endwalker | Critic: 90 | Genre: MMORPG | Platform: None
+2026-05-02 00:27:33,612 [INFO]   [47] Mario Kart 8 Deluxe | Critic: 85 | Genre: Auto Racing | Platform: None
+2026-05-02 00:27:36,785 [INFO]   [48] Out of the Park Baseball 17 | Critic: 80 | Genre: Baseball Sim | Platform: None
+2026-05-02 00:27:39,459 [INFO]   [49] The Witcher 3: Wild Hunt - Blood and Wine | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:27:42,779 [INFO]   [50] UFO 50 | Critic: 100 | Genre: Party | Platform: None
+2026-05-02 00:27:45,985 [INFO]   [51] Against the Storm | Critic: 90 | Genre: Management | Platform: None
+2026-05-02 00:27:49,757 [INFO]   [52] Microsoft Flight Simulator | Critic: 91 | Genre: Aircraft Sim | Platform: None
+2026-05-02 00:27:52,722 [INFO]   [53] Slay The Princess - The Pristine Cut | Critic: 90 | Genre: Visual Novel | Platform: None
+2026-05-02 00:27:55,846 [INFO]   [54] I Was a Teenage Exocolonist | Critic: 100 | Genre: Card Battle | Platform: None
+2026-05-02 00:27:59,654 [INFO]   [55] Overwatch (2016) | Critic: 90 | Genre: Tactical FPS | Platform: None
+2026-05-02 00:28:02,375 [INFO]   [56] Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | Critic: 96 | Genre: JRPG | Platform: None
+2026-05-02 00:28:06,376 [INFO] ── Browse page 3/5 ──
+2026-05-02 00:28:07,119 [INFO] Page 3: found 32 game links
+2026-05-02 00:28:08,038 [INFO]   [57] Forza Horizon 3 | Critic: 90 | Genre: Auto Racing Sim | Platform: None
+2026-05-02 00:28:12,221 [INFO]   [58] Shadow of the Colossus | Critic: 90 | Genre: Action Adventure | Platform: None
+2026-05-02 00:28:15,238 [INFO]   [59] Crusader Kings III | Critic: 90 | Genre: Real-Time Strategy | Platform: None
+2026-05-02 00:28:18,045 [INFO]   [60] Disco Elysium | Critic: 100 | Genre: Western RPG | Platform: None
+2026-05-02 00:28:21,260 [INFO]   [61] NieR: Automata - Game of the YoRHa Edition | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:28:24,220 [INFO]   [62] Resident Evil 2 | Critic: 90 | Genre: Survival | Platform: None
+2026-05-02 00:28:27,241 [INFO]   [63] Satisfactory | Critic: 100 | Genre: Sandbox | Platform: None
+2026-05-02 00:28:31,049 [INFO]   [64] Caves of Qud | Critic: 90 | Genre: Roguelike | Platform: None
+2026-05-02 00:28:34,275 [INFO]   [65] Shovel Knight: Treasure Trove | Critic: None | Genre: 2D Platformer | Platform: None
+2026-05-02 00:28:37,204 [INFO]   [66] Animal Well | Critic: 85 | Genre: Metroidvania | Platform: None
+2026-05-02 00:28:39,513 [INFO]   [67] Balatro | Critic: 100 | Genre: Card Battle | Platform: None
+2026-05-02 00:28:43,060 [INFO]   [68] Animal Crossing: New Horizons | Critic: 95 | Genre: Virtual Life | Platform: None
+2026-05-02 00:28:45,751 [INFO]   [69] Final Fantasy XIV: Shadowbringers | Critic: 70 | Genre: MMORPG | Platform: None
+2026-05-02 00:28:50,561 [INFO]   [70] Slay the Princess | Critic: 100 | Genre: Visual Novel | Platform: None
+2026-05-02 00:28:53,507 [INFO]   [71] Factorio | Critic: 85 | Genre: Tycoon | Platform: None
+2026-05-02 00:28:55,992 [INFO]   [72] Marvel's Spider-Man 2 | Critic: 95 | Genre: Open-World Action | Platform: None
+2026-05-02 00:28:59,309 [INFO]   [73] Jack Jeanne | Critic: 75 | Genre: Visual Novel | Platform: None
+2026-05-02 00:29:02,382 [INFO]   [74] NieR: Automata - Become as Gods Edition | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:29:05,277 [INFO]   [75] Stephen's Sausage Roll | Critic: None | Genre: Action Puzzle | Platform: None
+2026-05-02 00:29:08,116 [INFO]   [76] Tsukihime: A Piece of Blue Glass Moon | Critic: 100 | Genre: Visual Novel | Platform: None
+2026-05-02 00:29:10,500 [INFO]   [77] Hollow Knight | Critic: 90 | Genre: Metroidvania | Platform: None
+2026-05-02 00:29:14,033 [INFO]   [78] Ori and the Will of the Wisps | Critic: 80 | Genre: Metroidvania | Platform: None
+2026-05-02 00:29:16,953 [INFO]   [79] VIDEOVERSE | Critic: 100 | Genre: Adventure | Platform: None
+2026-05-02 00:29:20,594 [INFO]   [80] The Last of Us Part II Remastered | Critic: None | Genre: Survival | Platform: None
+2026-05-02 00:29:24,595 [INFO] ── Browse page 4/5 ──
+2026-05-02 00:29:25,281 [INFO] Page 4: found 32 game links
+2026-05-02 00:29:26,005 [INFO]   [81] DAVE THE DIVER | Critic: 95 | Genre: Action Adventure | Platform: None
+2026-05-02 00:29:29,121 [INFO]   [82] Chained Echoes | Critic: 90 | Genre: JRPG | Platform: None
+2026-05-02 00:29:32,012 [INFO]   [83] Mario Kart 8 DLC Pack 2 | Critic: 85 | Genre: Auto Racing | Platform: None
+2026-05-02 00:29:35,825 [INFO]   [84] The Stanley Parable: Ultra Deluxe | Critic: 80 | Genre: First-Person Adventure | Platform: None
+2026-05-02 00:29:39,185 [INFO]   [85] Monster Hunter: World | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:29:42,186 [INFO]   [86] Into the Breach | Critic: 100 | Genre: Turn-Based Tactics | Platform: None
+2026-05-02 00:29:45,152 [INFO]   [87] Chicory: A Colorful Tale | Critic: 100 | Genre: Adventure | Platform: None
+2026-05-02 00:29:47,514 [INFO]   [88] Tekken 8 | Critic: 90 | Genre: 3D Fighting | Platform: None
+2026-05-02 00:29:50,250 [INFO]   [89] Sekiro: Shadows Die Twice | Critic: 90 | Genre: Action Adventure | Platform: None
+2026-05-02 00:29:53,547 [INFO]   [90] Kentucky Route Zero - Act IV | Critic: 93 | Genre: Adventure | Platform: None
+2026-05-02 00:29:56,392 [INFO]   [91] Astro Bot Rescue Mission | Critic: 85 | Genre: Action Adventure | Platform: None
+2026-05-02 00:29:59,224 [INFO]   [92] Bayonetta + Bayonetta 2 | Critic: 90 | Genre: Compilation | Platform: None
+2026-05-02 00:30:02,708 [INFO]   [93] The Witcher 3: Wild Hunt - Hearts of Stone | Critic: 95 | Genre: Action RPG | Platform: None
+2026-05-02 00:30:06,094 [INFO]   [94] Neon White | Critic: 83 | Genre: FPS | Platform: None
+2026-05-02 00:30:09,541 [INFO]   [95] Xenoblade Chronicles: Definitive Edition | Critic: 100 | Genre: Action RPG | Platform: None
+2026-05-02 00:30:13,025 [INFO]   [96] The Legend of Zelda: Majora's Mask 3D | Critic: 90 | Genre: Open-World Action | Platform: None
+2026-05-02 00:30:16,174 [INFO]   [97] Monster Hunter: World - Iceborne | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:30:18,943 [INFO]   [98] Dead Cells | Critic: 83 | Genre: Metroidvania | Platform: None
+2026-05-02 00:30:22,607 [INFO]   [99] Pillars of Eternity | Critic: 70 | Genre: Western RPG | Platform: None
+2026-05-02 00:30:26,074 [INFO]   [100] Rez Infinite | Critic: 85 | Genre: Rail Shooter | Platform: None
+2026-05-02 00:30:29,151 [INFO]   [101] Pizza Tower | Critic: 90 | Genre: 2D Platformer | Platform: None
+2026-05-02 00:30:31,467 [INFO]   [102] Slay the Spire | Critic: 95 | Genre: Card Battle | Platform: None
+2026-05-02 00:30:34,058 [INFO]   [103] Titanfall 2 | Critic: 100 | Genre: FPS | Platform: None
+2026-05-02 00:30:36,439 [INFO]   [104] Dark Souls III | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:30:40,439 [INFO] ── Browse page 5/5 ──
+2026-05-02 00:30:41,118 [INFO] Page 5: found 32 game links
+2026-05-02 00:30:41,793 [INFO]   [105] Gunstar Heroes | Critic: 95 | Genre: 2D Platformer | Platform: None
+2026-05-02 00:30:44,836 [INFO]   [106] Xenoblade Chronicles 3 | Critic: 100 | Genre: Action RPG | Platform: None
+2026-05-02 00:30:48,209 [INFO]   [107] Super Mario 3D World + Bowser's Fury | Critic: 90 | Genre: 3D Platformer | Platform: None
+2026-05-02 00:30:51,100 [INFO]   [108] Kynseed | Critic: 100 | Genre: RPG | Platform: None
+2026-05-02 00:30:54,406 [INFO]   [109] Thank Goodness You're Here! | Critic: 95 | Genre: Adventure | Platform: None
+2026-05-02 00:30:57,124 [INFO]   [110] Cyberpunk 2077: Phantom Liberty | Critic: 100 | Genre: Action RPG | Platform: None
+2026-05-02 00:31:00,310 [INFO]   [111] Tetris Effect | Critic: 90 | Genre: Stacking Puzzle | Platform: None
+2026-05-02 00:31:03,069 [INFO]   [112] Dead Space | Critic: 100 | Genre: Survival | Platform: None
+2026-05-02 00:31:05,914 [INFO]   [113] Atari 50: The Anniversary Celebration | Critic: 95 | Genre: Compilation | Platform: None
+2026-05-02 00:31:08,749 [INFO]   [114] Final Fantasy VII Remake Intergrade | Critic: 80 | Genre: Action RPG | Platform: None
+2026-05-02 00:31:11,761 [INFO]   [115] Streets of Rage 2 | Critic: 85 | Genre: 2D Beat-'Em-Up | Platform: None
+2026-05-02 00:31:14,637 [INFO]   [116] Hollow Knight: Voidheart Edition | Critic: 80 | Genre: Metroidvania | Platform: None
+2026-05-02 00:31:17,394 [INFO]   [117] Fire Emblem: Three Houses | Critic: 95 | Genre: Turn-Based Tactics | Platform: None
+2026-05-02 00:31:19,728 [INFO]   [118] NieR: Automata - The End of YoRHa Edition | Critic: 90 | Genre: Action RPG | Platform: None
+2026-05-02 00:31:23,041 [INFO]   [119] Quake II - Enhanced Edition | Critic: 80 | Genre: FPS | Platform: None
+2026-05-02 00:31:26,054 [INFO]   [120] Destiny 2: The Final Shape | Critic: 90 | Genre: FPS | Platform: None
+2026-05-02 00:31:28,778 [INFO]   [121] Horizon Forbidden West: Complete Edition | Critic: 95 | Genre: Open-World Action | Platform: None
+2026-05-02 00:31:31,513 [INFO]   [122] Nuclear Throne | Critic: 100 | Genre: Top-Down Shoot-'Em-Up | Platform: None
+2026-05-02 00:31:34,742 [INFO]   [123] Like a Dragon: Infinite Wealth | Critic: 90 | Genre: JRPG | Platform: None
+2026-05-02 00:31:37,374 [INFO]   [124] Cuphead in the Delicious Last Course | Critic: 95 | Genre: 2D Platformer | Platform: None
+2026-05-02 00:31:41,001 [INFO]   [125] Lone Echo | Critic: 85 | Genre: Action Adventure | Platform: None
+2026-05-02 00:31:44,130 [INFO]   [126] Apex Legends | Critic: 90 | Genre: Tactical FPS | Platform: None
+2026-05-02 00:31:47,408 [INFO]   [127] NORCO | Critic: 83 | Genre: Point-and-Click | Platform: None
+2026-05-02 00:31:50,823 [INFO]   [128] Synth Riders | Critic: 100 | Genre: Dancing | Platform: None
+2026-05-02 00:31:54,827 [INFO] Done. 128 records saved to data/games_raw.json
