@@ -1,11 +1,3 @@
-"""
-robots_check.py
----------------
-CS313x - Gaming Review Analyzer | Phase 1
-Checks and documents robots.txt compliance before scraping.
-Run this FIRST before scraper.py
-"""
-
 import urllib.robotparser
 import urllib.request
 import datetime
@@ -45,7 +37,7 @@ def check_site(name, base_url):
         for path in PATHS_TO_CHECK:
             full_url = base_url + path
             allowed  = rp.can_fetch(USER_AGENT, full_url)
-            symbol   = "✅ ALLOWED" if allowed else "❌ DISALLOWED"
+            symbol   = "ALLOWED" if allowed else " DISALLOWED"
             print(f"    {symbol}  →  {path}")
     except Exception as e:
         print(f"  Could not read robots.txt: {e}")

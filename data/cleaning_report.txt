@@ -1,14 +1,18 @@
 ============================================================
   CS313x Gaming Review Analyzer — Data Cleaning Report
-  Generated: 2026-05-01 22:32:56
+  Generated: 2026-05-02 01:06:52
 ============================================================
 
-  Raw records       : 10
+  Raw records       : 128
   Duplicates removed: 0
-  Clean records     : 10
+  Clean records     : 128
   Kept rate         : 100.0%
 
   Data Quality Issues Breakdown:
+    missing_user_score              128 records  (100.0%)
+    missing_release_date            128 records  (100.0%)
+    missing_summary                 128 records  (100.0%)
+    missing_critic_score              7 records  (5.5%)
 
   Preprocessing Steps Applied:
     1. HTML tag removal

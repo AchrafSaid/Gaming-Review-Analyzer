@@ -169,7 +169,7 @@ def clean_record(raw: dict, idx: int) -> tuple[dict, list[str]]:
     summary_proc = preprocess_text(rec.get("summary"))
     rec["summary_clean"]          = summary_proc["cleaned"]
     rec["summary_tokens"]         = summary_proc["filtered_tokens"]
-    rec["summary_token_count"]    = summary_proc["token_count"]
+    rec["summary_token_count"]    = summary_proc.get("token_count", 0)
     rec["summary_unique_terms"]   = summary_proc.get("unique_terms", 0)
 
     if not rec.get("summary"):
