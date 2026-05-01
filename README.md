@@ -13,3 +13,4 @@ Omar Ali-241921
 **Course:** CS313x — Information Retrieval & Data Analysis
 
 
+!{Preview}(images/mcr.png)
