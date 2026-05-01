@@ -1,0 +1,21 @@
+============================================================
+  CS313x Gaming Review Analyzer — Data Cleaning Report
+  Generated: 2026-05-01 22:32:56
+============================================================
+
+  Raw records       : 10
+  Duplicates removed: 0
+  Clean records     : 10
+  Kept rate         : 100.0%
+
+  Data Quality Issues Breakdown:
+
+  Preprocessing Steps Applied:
+    1. HTML tag removal
+    2. Lowercasing & whitespace normalization
+    3. Special character removal
+    4. Tokenization (regex word boundaries)
+    5. Stopword removal (custom domain list)
+    6. Score range validation (0-100 / 0-10)
+    7. Date normalization to YYYY-MM-DD
+    8. Duplicate removal (title + platform key)
