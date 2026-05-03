@@ -1,0 +1,36 @@
+Dataset Overview
+  Total reviews       : 120
+  Unique games        : 5
+  Unique genres       : 4
+  Recommended reviews : 107
+  Not recommended     : 13
+
+Score and Text Statistics
+  Mean user score       : 8.92
+  Median user score     : 10.00
+  Mean review tokens    : 45.42
+  Median review tokens  : 14.50
+  Std dev review tokens : 91.83
+  Mean playtime hours   : 136.14
+  Median playtime hours : 62.52
+
+Sentiment Labels
+  positive     64
+  neutral      49
+  negative     7
+
+Top Genres
+  RPG                          45
+  Action                       25
+  Adventure                    25
+  Indie                        25
+
+Top Games
+  Cyberpunk 2077                           25
+  ELDEN RING                               25
+  Baldur's Gate 3                          25
+  Stardew Valley                           25
+  The Witcher 3: Wild Hunt                 20
+
+Top Review Keywords
+  one(33), best(28), good(24), story(22), there(22), it's(21), even(21), world(20), time(20), like(20), really(19), fun(18), still(17), now(16), great(15), some(15), much(15), too(15), ever(14), playing(13)

@@ -1,25 +1,23 @@
-============================================================
-  CS313x Gaming Review Analyzer — Data Cleaning Report
-  Generated: 2026-05-02 01:06:52
-============================================================
-
-  Raw records       : 128
-  Duplicates removed: 0
-  Clean records     : 128
-  Kept rate         : 100.0%
+  Raw records        : 120
+  Duplicates removed : 0
+  Empty-text dropped : 0
+  Clean records      : 120
+  Unique games       : 5
+  Reviews with text  : 120
+  Filtered tokens    : 2805
+  Recommended        : 107
+  Not recommended    : 13
+  Kept rate          : 100.0%
 
   Data Quality Issues Breakdown:
-    missing_user_score              128 records  (100.0%)
-    missing_release_date            128 records  (100.0%)
-    missing_summary                 128 records  (100.0%)
-    missing_critic_score              7 records  (5.5%)
+    No recurring quality issues detected.
 
   Preprocessing Steps Applied:
     1. HTML tag removal
-    2. Lowercasing & whitespace normalization
-    3. Special character removal
-    4. Tokenization (regex word boundaries)
-    5. Stopword removal (custom domain list)
-    6. Score range validation (0-100 / 0-10)
-    7. Date normalization to YYYY-MM-DD
-    8. Duplicate removal (title + platform key)
+    2. Lowercasing and whitespace normalization
+    3. Special character cleanup
+    4. Regex tokenization
+    5. Stopword removal with game-domain terms
+    6. Date normalization to YYYY-MM-DD
+    7. Duplicate removal by Steam recommendation id
+    8. Lightweight sentiment scoring from cleaned tokens

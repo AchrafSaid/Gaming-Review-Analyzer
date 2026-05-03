@@ -1,0 +1,15 @@
+Site: Steam Store
+  Crawl Delay : 1.5s default
+  Paths:
+    [ALLOWED] /
+    [ALLOWED] /search/
+    [ALLOWED] /app/1091500/
+    [ALLOWED] /appreviews/1091500
+    [ALLOWED] /api/appdetails
+    [DISALLOWED] /share/
+
+Decision:
+  Proceed with Steam Store search pages, app detail metadata, and
+  appreviews review pages only. Keep the 1.5 second default delay
+  because robots.txt does not specify a crawl-delay.
+  Do not access disallowed paths such as /share/.
