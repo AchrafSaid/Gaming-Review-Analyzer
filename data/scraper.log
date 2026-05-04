@@ -1,14 +1,96 @@
-2026-05-03 20:34:19,695 [INFO] Starting Steam scraper | target_records=120 | delay=1.5s
-2026-05-03 20:34:20,421 [INFO] Search term 'rpg', page 1: discovered 50 unique apps total
-2026-05-03 20:34:22,656 [INFO] Search term 'rpg', page 2: discovered 99 unique apps total
-2026-05-03 20:34:24,861 [INFO] Search term 'strategy', page 1: discovered 148 unique apps total
-2026-05-03 20:34:27,048 [INFO] Search term 'strategy', page 2: discovered 190 unique apps total
-2026-05-03 20:34:29,356 [INFO] Search term 'adventure', page 1: discovered 221 unique apps total
-2026-05-03 20:34:31,838 [INFO] Search term 'adventure', page 2: discovered 268 unique apps total
-2026-05-03 20:34:33,339 [INFO] Candidate apps discovered: 269
-2026-05-03 20:34:39,404 [INFO] App 1091500 (Cyberpunk 2077): added 25 reviews
-2026-05-03 20:34:54,843 [INFO] App 1245620 (ELDEN RING): added 25 reviews
-2026-05-03 20:35:02,635 [INFO] App 1086940 (Baldur's Gate 3): added 25 reviews
-2026-05-03 20:35:12,072 [INFO] App 413150 (Stardew Valley): added 25 reviews
-2026-05-03 20:35:19,782 [INFO] App 292030 (The Witcher 3: Wild Hunt): added 20 reviews
-2026-05-03 20:35:21,287 [INFO] Done. 120 records saved to data\games_raw.json
+2026-05-04 20:36:34,261 [INFO] Starting Steam HTML scraper | target_records=120 | delay=1.5s
+2026-05-04 20:36:35,605 [INFO] Search term 'rpg', page 1: discovered 50 unique apps total
+2026-05-04 20:36:37,743 [INFO] Search term 'rpg', page 2: discovered 100 unique apps total
+2026-05-04 20:36:40,127 [INFO] Search term 'strategy', page 1: discovered 149 unique apps total
+2026-05-04 20:36:42,217 [INFO] Search term 'strategy', page 2: discovered 190 unique apps total
+2026-05-04 20:36:44,323 [INFO] Search term 'adventure', page 1: discovered 222 unique apps total
+2026-05-04 20:36:46,569 [INFO] Search term 'adventure', page 2: discovered 269 unique apps total
+2026-05-04 20:36:48,070 [INFO] Candidate apps discovered from HTML search pages: 271
+2026-05-04 20:36:50,946 [INFO] App 1091500 review page 1: parsed 7 review cards
+2026-05-04 20:36:53,101 [INFO] App 1091500 review page 2: parsed 7 review cards
+2026-05-04 20:36:55,159 [INFO] App 1091500 review page 3: parsed 7 review cards
+2026-05-04 20:36:57,263 [INFO] App 1091500 review page 4: parsed 7 review cards
+2026-05-04 20:36:58,764 [INFO] App 1091500 (Cyberpunk 2077): added 7 HTML-scraped reviews
+2026-05-04 20:37:03,477 [INFO] App 1245620 review page 1: parsed 7 review cards
+2026-05-04 20:37:05,705 [INFO] App 1245620 review page 2: parsed 7 review cards
+2026-05-04 20:37:07,996 [INFO] App 1245620 review page 3: parsed 7 review cards
+2026-05-04 20:37:10,068 [INFO] App 1245620 review page 4: parsed 7 review cards
+2026-05-04 20:37:11,569 [INFO] App 1245620 (ELDEN RING): added 7 HTML-scraped reviews
+2026-05-04 20:37:16,235 [INFO] App 1086940 review page 1: parsed 8 review cards
+2026-05-04 20:37:18,326 [INFO] App 1086940 review page 2: parsed 8 review cards
+2026-05-04 20:37:20,665 [INFO] App 1086940 review page 3: parsed 8 review cards
+2026-05-04 20:37:22,706 [INFO] App 1086940 review page 4: parsed 8 review cards
+2026-05-04 20:37:24,206 [INFO] App 1086940 (Baldur's Gate 3): added 8 HTML-scraped reviews
+2026-05-04 20:37:28,687 [INFO] App 413150 review page 1: parsed 8 review cards
+2026-05-04 20:37:30,841 [INFO] App 413150 review page 2: parsed 8 review cards
+2026-05-04 20:37:32,874 [INFO] App 413150 review page 3: parsed 8 review cards
+2026-05-04 20:37:35,307 [INFO] App 413150 review page 4: parsed 8 review cards
+2026-05-04 20:37:36,808 [INFO] App 413150 (Stardew Valley): added 8 HTML-scraped reviews
+2026-05-04 20:37:41,518 [INFO] App 292030 review page 1: parsed 7 review cards
+2026-05-04 20:37:43,656 [INFO] App 292030 review page 2: parsed 7 review cards
+2026-05-04 20:37:45,874 [INFO] App 292030 review page 3: parsed 7 review cards
+2026-05-04 20:37:48,385 [INFO] App 292030 review page 4: parsed 7 review cards
+2026-05-04 20:37:49,885 [INFO] App 292030 (The Witcher 3: Wild Hunt): added 7 HTML-scraped reviews
+2026-05-04 20:37:54,820 [INFO] App 1174180 review page 1: parsed 2 review cards
+2026-05-04 20:37:56,983 [INFO] App 1174180 review page 2: parsed 2 review cards
+2026-05-04 20:37:59,185 [INFO] App 1174180 review page 3: parsed 2 review cards
+2026-05-04 20:38:01,374 [INFO] App 1174180 review page 4: parsed 2 review cards
+2026-05-04 20:38:02,874 [INFO] App 1174180 (Red Dead Redemption 2): added 2 HTML-scraped reviews
+2026-05-04 20:38:07,357 [INFO] App 1476970 review page 1: parsed 5 review cards
+2026-05-04 20:38:09,406 [INFO] App 1476970 review page 2: parsed 5 review cards
+2026-05-04 20:38:11,441 [INFO] App 1476970 review page 3: parsed 5 review cards
+2026-05-04 20:38:13,499 [INFO] App 1476970 review page 4: parsed 5 review cards
+2026-05-04 20:38:15,000 [INFO] App 1476970 (IdleOn): added 5 HTML-scraped reviews
+2026-05-04 20:38:19,838 [INFO] App 230410 review page 1: parsed 5 review cards
+2026-05-04 20:38:21,967 [INFO] App 230410 review page 2: parsed 5 review cards
+2026-05-04 20:38:24,132 [INFO] App 230410 review page 3: parsed 5 review cards
+2026-05-04 20:38:26,181 [INFO] App 230410 review page 4: parsed 5 review cards
+2026-05-04 20:38:27,682 [INFO] App 230410 (Warframe): added 5 HTML-scraped reviews
+2026-05-04 20:38:32,385 [INFO] App 3105440 review page 1: parsed 10 review cards
+2026-05-04 20:38:34,473 [INFO] App 3105440 review page 2: parsed 10 review cards
+2026-05-04 20:38:36,503 [INFO] App 3105440 review page 3: parsed 10 review cards
+2026-05-04 20:38:38,537 [INFO] App 3105440 review page 4: parsed 10 review cards
+2026-05-04 20:38:40,038 [INFO] App 3105440 (Heroes of Might and Magic: Olden Era): added 10 HTML-scraped reviews
+2026-05-04 20:38:44,602 [INFO] App 3321460 review page 1: parsed 9 review cards
+2026-05-04 20:38:46,662 [INFO] App 3321460 review page 2: parsed 9 review cards
+2026-05-04 20:38:48,724 [INFO] App 3321460 review page 3: parsed 9 review cards
+2026-05-04 20:38:50,817 [INFO] App 3321460 review page 4: parsed 9 review cards
+2026-05-04 20:38:52,318 [INFO] App 3321460 (Crimson Desert): added 9 HTML-scraped reviews
+2026-05-04 20:38:56,848 [INFO] App 2344520 review page 1: parsed 7 review cards
+2026-05-04 20:38:58,886 [INFO] App 2344520 review page 2: parsed 7 review cards
+2026-05-04 20:39:00,976 [INFO] App 2344520 review page 3: parsed 7 review cards
+2026-05-04 20:39:03,259 [INFO] App 2344520 review page 4: parsed 7 review cards
+2026-05-04 20:39:04,760 [INFO] App 2344520 (Diablo® IV): added 7 HTML-scraped reviews
+2026-05-04 20:39:09,388 [INFO] App 3564740 review page 1: parsed 8 review cards
+2026-05-04 20:39:11,455 [INFO] App 3564740 review page 2: parsed 8 review cards
+2026-05-04 20:39:13,515 [INFO] App 3564740 review page 3: parsed 8 review cards
+2026-05-04 20:39:15,664 [INFO] App 3564740 review page 4: parsed 8 review cards
+2026-05-04 20:39:17,164 [INFO] App 3564740 (Where Winds Meet): added 8 HTML-scraped reviews
+2026-05-04 20:39:21,501 [INFO] App 1158310 review page 1: parsed 8 review cards
+2026-05-04 20:39:23,740 [INFO] App 1158310 review page 2: parsed 8 review cards
+2026-05-04 20:39:25,842 [INFO] App 1158310 review page 3: parsed 8 review cards
+2026-05-04 20:39:27,903 [INFO] App 1158310 review page 4: parsed 8 review cards
+2026-05-04 20:39:29,404 [INFO] App 1158310 (Crusader Kings III): added 8 HTML-scraped reviews
+2026-05-04 20:39:33,912 [INFO] App 1013320 review page 1: parsed 8 review cards
+2026-05-04 20:39:35,971 [INFO] App 1013320 review page 2: parsed 8 review cards
+2026-05-04 20:39:38,028 [INFO] App 1013320 review page 3: parsed 8 review cards
+2026-05-04 20:39:40,100 [INFO] App 1013320 review page 4: parsed 8 review cards
+2026-05-04 20:39:41,600 [INFO] App 1013320 (Firestone – Idle Clicker Online RPG): added 8 HTML-scraped reviews
+2026-05-04 20:39:45,758 [INFO] App 3513350 review page 1: parsed 7 review cards
+2026-05-04 20:39:47,816 [INFO] App 3513350 review page 2: parsed 7 review cards
+2026-05-04 20:39:50,033 [INFO] App 3513350 review page 3: parsed 7 review cards
+2026-05-04 20:39:52,128 [INFO] App 3513350 review page 4: parsed 7 review cards
+2026-05-04 20:39:53,629 [INFO] App 3513350 (Wuthering Waves): added 7 HTML-scraped reviews
+2026-05-04 20:39:58,165 [INFO] App 570 review page 1: parsed 5 review cards
+2026-05-04 20:40:00,274 [INFO] App 570 review page 2: parsed 5 review cards
+2026-05-04 20:40:02,471 [INFO] App 570 review page 3: parsed 5 review cards
+2026-05-04 20:40:04,540 [INFO] App 570 review page 4: parsed 5 review cards
+2026-05-04 20:40:06,041 [INFO] App 570 (Dota 2): added 5 HTML-scraped reviews
+2026-05-04 20:40:10,558 [INFO] App 39210 review page 1: parsed 6 review cards
+2026-05-04 20:40:12,616 [INFO] App 39210 review page 2: parsed 6 review cards
+2026-05-04 20:40:14,720 [INFO] App 39210 review page 3: parsed 6 review cards
+2026-05-04 20:40:16,831 [INFO] App 39210 review page 4: parsed 6 review cards
+2026-05-04 20:40:18,331 [INFO] App 39210 (FINAL FANTASY XIV Online): added 6 HTML-scraped reviews
+2026-05-04 20:40:22,831 [INFO] App 1687950 review page 1: parsed 6 review cards
+2026-05-04 20:40:24,331 [INFO] App 1687950 (Persona 5 Royal): added 3 HTML-scraped reviews
+2026-05-04 20:40:25,839 [INFO] Done. 120 records saved to data\games_raw.json

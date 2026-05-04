@@ -1,36 +1,47 @@
 Dataset Overview
   Total reviews       : 120
-  Unique games        : 5
-  Unique genres       : 4
-  Recommended reviews : 107
-  Not recommended     : 13
+  Unique games        : 18
+  Unique genres       : 11
+  Recommended reviews : 98
+  Not recommended     : 22
 
 Score and Text Statistics
-  Mean user score       : 8.92
+  Mean user score       : 8.17
   Median user score     : 10.00
-  Mean review tokens    : 45.42
-  Median review tokens  : 14.50
-  Std dev review tokens : 91.83
-  Mean playtime hours   : 136.14
-  Median playtime hours : 62.52
+  Mean review tokens    : 53.12
+  Median review tokens  : 18.00
+  Std dev review tokens : 81.76
+  Mean playtime hours   : 453.00
+  Median playtime hours : 76.95
 
 Sentiment Labels
-  positive     64
-  neutral      49
+  positive     59
+  neutral      54
   negative     7
 
 Top Genres
-  RPG                          45
-  Action                       25
-  Adventure                    25
-  Indie                        25
+  Open World                   33
+  Strategy                     18
+  Idler                        13
+  Free to Play                 10
+  RPG                          8
+  Farming Sim                  8
+  Cyberpunk                    7
+  Souls-like                   7
+  Action RPG                   7
+  MMORPG                       6
 
 Top Games
-  Cyberpunk 2077                           25
-  ELDEN RING                               25
-  Baldur's Gate 3                          25
-  Stardew Valley                           25
-  The Witcher 3: Wild Hunt                 20
+  Heroes of Might and Magic: Olden Era     10
+  Crimson Desert                           9
+  Baldur's Gate 3                          8
+  Stardew Valley                           8
+  Where Winds Meet                         8
+  Crusader Kings III                       8
+  Firestone – Idle Clicker Online RPG      8
+  Cyberpunk 2077                           7
+  ELDEN RING                               7
+  The Witcher 3: Wild Hunt                 7
 
 Top Review Keywords
-  one(33), best(28), good(24), story(22), there(22), it's(21), even(21), world(20), time(20), like(20), really(19), fun(18), still(17), now(16), great(15), some(15), much(15), too(15), ever(14), playing(13)
+  like(52), one(31), there(30), story(26), time(24), good(21), it's(21), world(20), fun(20), even(19), ever(19), best(19), hours(18), many(15), some(15), really(14), much(13), lot(13), amazing(13), because(13)
