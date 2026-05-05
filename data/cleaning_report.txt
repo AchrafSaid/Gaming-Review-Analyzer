@@ -2,11 +2,11 @@
   Duplicates removed : 0
   Empty-text dropped : 0
   Clean records      : 120
-  Unique games       : 18
+  Unique games       : 16
   Reviews with text  : 120
-  Filtered tokens    : 3183
-  Recommended        : 98
-  Not recommended    : 22
+  Filtered tokens    : 2805
+  Recommended        : 99
+  Not recommended    : 21
   Kept rate          : 100.0%
 
   Data Quality Issues Breakdown:

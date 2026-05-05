@@ -1,47 +1,47 @@
 Dataset Overview
   Total reviews       : 120
-  Unique games        : 18
-  Unique genres       : 11
-  Recommended reviews : 98
-  Not recommended     : 22
+  Unique games        : 16
+  Unique genres       : 10
+  Recommended reviews : 99
+  Not recommended     : 21
 
 Score and Text Statistics
-  Mean user score       : 8.17
+  Mean user score       : 8.25
   Median user score     : 10.00
-  Mean review tokens    : 53.12
-  Median review tokens  : 18.00
-  Std dev review tokens : 81.76
-  Mean playtime hours   : 453.00
-  Median playtime hours : 76.95
+  Mean review tokens    : 44.96
+  Median review tokens  : 14.50
+  Std dev review tokens : 71.04
+  Mean playtime hours   : 386.58
+  Median playtime hours : 54.55
 
 Sentiment Labels
-  positive     59
-  neutral      54
-  negative     7
+  positive     61
+  neutral      53
+  negative     6
 
 Top Genres
-  Open World                   33
-  Strategy                     18
-  Idler                        13
-  Free to Play                 10
-  RPG                          8
-  Farming Sim                  8
+  Open World                   36
+  Idler                        14
+  Free to Play                 13
+  RPG                          10
+  Strategy                     10
+  Action RPG                   10
+  Farming Sim                  9
   Cyberpunk                    7
   Souls-like                   7
-  Action RPG                   7
-  MMORPG                       6
+  JRPG                         4
 
 Top Games
+  Baldur's Gate 3                          10
   Heroes of Might and Magic: Olden Era     10
-  Crimson Desert                           9
-  Baldur's Gate 3                          8
-  Stardew Valley                           8
-  Where Winds Meet                         8
-  Crusader Kings III                       8
+  Diablo® IV                               10
+  Stardew Valley                           9
   Firestone – Idle Clicker Online RPG      8
+  Wuthering Waves                          8
   Cyberpunk 2077                           7
   ELDEN RING                               7
   The Witcher 3: Wild Hunt                 7
+  Red Dead Redemption 2                    7
 
 Top Review Keywords
-  like(52), one(31), there(30), story(26), time(24), good(21), it's(21), world(20), fun(20), even(19), ever(19), best(19), hours(18), many(15), some(15), really(14), much(13), lot(13), amazing(13), because(13)
+  like(32), good(26), it's(25), fun(20), feels(18), one(18), story(17), best(16), great(16), time(16), amazing(15), first(15), some(15), really(15), world(14), there(14), even(14), hours(13), early(13), lot(12)
