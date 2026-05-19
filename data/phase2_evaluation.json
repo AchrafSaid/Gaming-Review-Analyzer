@@ -1,0 +1,39 @@
+{
+  "records_evaluated": 120,
+  "recommendation_prediction": {
+    "true_positive": 97,
+    "false_positive": 18,
+    "true_negative": 3,
+    "false_negative": 2,
+    "accuracy": 0.833,
+    "precision": 0.843,
+    "recall": 0.98,
+    "f1": 0.907
+  },
+  "topic_classification": {
+    "topic_coverage": 0.483,
+    "topic_counts": {
+      "general": 62,
+      "story": 18,
+      "replayability": 11,
+      "gameplay": 9,
+      "world": 7,
+      "value": 7,
+      "visual_audio": 4,
+      "performance": 1,
+      "multiplayer": 1
+    }
+  },
+  "summarization": {
+    "summary_coverage": 1.0,
+    "average_summary_chars": 72.6
+  },
+  "search_query_coverage": {
+    "story": 24,
+    "performance": 2,
+    "world": 12,
+    "combat": 6,
+    "price": 2,
+    "crash": 1
+  }
+}

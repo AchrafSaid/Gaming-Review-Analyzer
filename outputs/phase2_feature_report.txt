@@ -1,0 +1,36 @@
+CS313x Gaming Review Analyzer - Phase 2 Feature Extraction Report
+Generated: 2026-05-19T16:17:37
+
+Methods Used
+  - TF-IDF keyword extraction
+  - rule-based topic classification
+  - negation-aware lexicon sentiment classification
+  - extractive review summarization
+  - per-game insight aggregation
+
+Review records processed: 120
+Game profiles created  : 16
+
+Top Global TF-IDF Terms
+  it's(17), good(14), amazing(11), like(11), really(11), dlc(10), best(8), fun(8), story(7), first(7), early(7), voice(7), great(6), people(6), lot(6)
+
+Topic Distribution
+  general          62
+  story            18
+  replayability    11
+  gameplay         9
+  world            7
+  value            7
+  visual_audio     4
+  performance      1
+  multiplayer      1
+
+Game Insight Samples
+  - Baldur's Gate 3: 90% of sampled reviews are recommended. Main discussion themes are story, general; key terms include act, finishing, way, people.
+  - Heroes of Might and Magic: Olden Era: 90% of sampled reviews are recommended. Main discussion themes are general, replayability; key terms include early, access, it's, homm.
+  - Diablo® IV: 60% of sampled reviews are recommended. Main discussion themes are general, story; key terms include dlc, good, season, expansion.
+  - Stardew Valley: 100% of sampled reviews are recommended. Main discussion themes are general, value; key terms include fun, cozy, hate, lot.
+  - Wuthering Waves: 75% of sampled reviews are recommended. Main discussion themes are story, general; key terms include really, like, combat, genuinely.
+  - Firestone – Idle Clicker Online RPG: 50% of sampled reviews are recommended. Main discussion themes are general, replayability; key terms include servers, guild, cannot, there.
+  - ELDEN RING: 100% of sampled reviews are recommended. Main discussion themes are general, replayability; key terms include first, souls, best, expirience.
+  - The Witcher 3: Wild Hunt: 100% of sampled reviews are recommended. Main discussion themes are general, story; key terms include storyline, one, witcher, great.

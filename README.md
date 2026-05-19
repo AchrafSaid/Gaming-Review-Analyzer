@@ -1,8 +1,8 @@
-# Gaming Review Analyzer - CS313x Phase 1
+# Gaming Review Analyzer - CS313x Phase 1 and Phase 2
 
 ## Project Overview
 
-Gaming Review Analyzer is a web intelligence project that collects public Steam game review data, stores it in JSON, cleans and preprocesses review text, and produces exploratory analysis charts for review trends.
+Gaming Review Analyzer is a web intelligence project that collects public Steam game review data, stores it in JSON, cleans and preprocesses review text, extracts information retrieval features, applies AI-style review analysis, and produces searchable product insights.
 
 ## Team
 
@@ -40,6 +40,12 @@ Generated files:
 - `data/scraper.log`
 - `outputs/eda_report.txt`
 - `outputs/*.png`
+- `data/phase2_features.json`
+- `data/phase2_evaluation.json`
+- `outputs/phase2_dashboard.html`
+- `outputs/phase2_feature_report.txt`
+- `outputs/phase2_insights.txt`
+- `outputs/phase2_evaluation_report.txt`
 
 ## How to Run
 
@@ -48,10 +54,28 @@ From the project root:
 ```bash
 python -m pip install -r requirements.txt
 python scripts/robot_check.py
-python "scripts/Scraping&Crawling.py" --max-records 120 --reviews-per-game 15 --search-pages 1 --review-pages-per-game 3
+python scripts/scraper.py --max-records 120 --reviews-per-game 15 --search-pages 1 --review-pages-per-game 3
 python scripts/cleaner.py
 python scripts/EDA.py
 ```
+
+## Phase 2 Run Order
+
+After Phase 1 data is cleaned, run:
+
+```bash
+python scripts/phase2_features.py
+python scripts/phase2_product_system.py
+python scripts/phase2_evaluation.py
+```
+
+Optional terminal search:
+
+```bash
+python scripts/phase2_product_system.py --query story --limit 5
+```
+
+Open `outputs/phase2_dashboard.html` in a browser to use the searchable product interface.
 
 If a lab machine has local HTTPS certificate interception, run with `CS313X_INSECURE_SSL=1`. Normal SSL verification remains the default.
 
@@ -65,3 +89,13 @@ If a lab machine has local HTTPS certificate interception, run with `CS313X_INSE
 - Data quality handling: Missing-field tracking and duplicate removal in `cleaning_report.txt`.
 - EDA: Review recommendation distribution, sentiment labels, review lengths, top genres, top games, keyword frequencies, and playtime analysis.
 - Visualization: PNG charts saved under `outputs/`.
+
+## Phase 2 Rubric Mapping
+
+- Feature extraction: `scripts/phase2_features.py` creates TF-IDF keywords, topic labels, review summaries, and game profiles.
+- Product system implementation: `outputs/phase2_dashboard.html` provides an interactive searchable review intelligence dashboard.
+- AI feature integration: The system includes negation-aware sentiment classification, topic classification, and extractive summarization.
+- AI feature relevance: Features answer product questions about game strengths, weaknesses, player themes, and review polarity.
+- Insight generation: `outputs/phase2_insights.txt` and `outputs/phase2_feature_report.txt` explain top keywords, topics, and game-level interpretations.
+- Evaluation of outputs: `scripts/phase2_evaluation.py` compares AI recommendation prediction against Steam recommendation labels and reports accuracy, precision, recall, F1, topic coverage, summary coverage, and search coverage.
+- Code structure and reproducibility: Phase 2 is split into separate scripts for feature extraction, product output, and evaluation, with all generated files saved under `data/` and `outputs/`.

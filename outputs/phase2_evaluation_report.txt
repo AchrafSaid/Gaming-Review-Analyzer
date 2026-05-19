@@ -1,0 +1,38 @@
+CS313x Gaming Review Analyzer - Phase 2 Output Evaluation
+
+Records evaluated: 120
+
+AI Sentiment / Recommendation Prediction vs Steam Recommendation
+  Accuracy : 0.833
+  Precision: 0.843
+  Recall   : 0.980
+  F1 score : 0.907
+  Confusion matrix: TP=97, FP=18, TN=3, FN=2
+
+Topic Classification
+  Topic coverage: 48.3% of reviews received a non-general topic.
+  general          62
+  story            18
+  replayability    11
+  gameplay         9
+  world            7
+  value            7
+  visual_audio     4
+  performance      1
+  multiplayer      1
+
+Summarization
+  Summary coverage      : 100.0%
+  Average summary length: 72.6 characters
+
+Search Query Coverage
+  story        24 matching reviews
+  performance  2 matching reviews
+  world        12 matching reviews
+  combat       6 matching reviews
+  price        2 matching reviews
+  crash        1 matching reviews
+
+Interpretation
+  The Phase 2 system produces measurable outputs: extracted keywords, topic labels, AI sentiment, review summaries, game profiles, and searchable results.
+  The recommendation comparison uses the Steam recommended/not recommended label as a practical ground truth for evaluating AI sentiment usefulness.

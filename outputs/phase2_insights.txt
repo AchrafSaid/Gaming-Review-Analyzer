@@ -1,0 +1,28 @@
+CS313x Gaming Review Analyzer - Phase 2 Product Insights
+
+Total analyzed reviews: 120
+Recommendation rate   : 82.5%
+AI negative reviews   : 5
+
+Most Common Topics
+  - general: 62 reviews
+  - story: 18 reviews
+  - replayability: 11 reviews
+  - gameplay: 9 reviews
+  - world: 7 reviews
+
+Top Keywords
+  it's, good, amazing, like, really, dlc, best, fun, story, first
+
+Product Interpretation
+  - Baldur's Gate 3: 90% of sampled reviews are recommended. Main discussion themes are story, general; key terms include act, finishing, way, people.
+  - Heroes of Might and Magic: Olden Era: 90% of sampled reviews are recommended. Main discussion themes are general, replayability; key terms include early, access, it's, homm.
+  - Diablo® IV: 60% of sampled reviews are recommended. Main discussion themes are general, story; key terms include dlc, good, season, expansion.
+  - Stardew Valley: 100% of sampled reviews are recommended. Main discussion themes are general, value; key terms include fun, cozy, hate, lot.
+  - Wuthering Waves: 75% of sampled reviews are recommended. Main discussion themes are story, general; key terms include really, like, combat, genuinely.
+  - Firestone – Idle Clicker Online RPG: 50% of sampled reviews are recommended. Main discussion themes are general, replayability; key terms include servers, guild, cannot, there.
+
+How to use the product system
+  1. Open outputs/phase2_dashboard.html in a browser.
+  2. Search keywords such as story, performance, world, combat, crash, or price.
+  3. Filter by topic or AI sentiment to inspect matching reviews and game profiles.
